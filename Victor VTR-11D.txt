@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Victor VTR-11D.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	Weapon 1-2-2
+4	Weapon 1-1-1
+5	Mobility
+6	None
+7	Engine
+8	Engine
+9	Ammo explosion
+10	FCS
+11	Unit Killed (Engine)
+12	Unit Killed

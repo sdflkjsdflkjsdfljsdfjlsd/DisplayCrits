@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Volkh VKH-1.mtf
+==================================================
+
+2	Supercharger
+3	Ammo explosion
+4	Mobility
+5	None
+6	Engine
+7	IS Lance
+8	Engine
+9	FCS
+10	Unit Killed (Engine)
+11	Weapon 1-1-0
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 4

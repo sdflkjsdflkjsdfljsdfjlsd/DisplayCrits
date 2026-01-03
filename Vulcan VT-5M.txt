@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Vulcan VT-5M.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	Lose HT special
+4	Ammo explosion
+5	Weapon 1-1-0
+6	Mobility
+7	Engine
+8	None
+9	None
+10	None
+11	Mobility
+12	Ammo explosion

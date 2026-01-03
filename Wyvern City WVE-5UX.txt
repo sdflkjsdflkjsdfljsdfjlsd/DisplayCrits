@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Wyvern City WVE-5UX.mtf
+==================================================
+
+2	Supercharger
+3	FCS
+4	Weapon 1-1-1
+5	Ammo explosion
+6	Engine
+7	Weapon 1-1-0
+8	None
+9	Mobility
+10	ISVehicularGrenadeLauncher
+11	None
+12	Unit Killed

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Vulcan VL-2T (Timms).mtf
+==================================================
+
+2	Mobility
+3	Engine
+4	Ammo explosion
+5	Lose HT special
+6	None
+7	Mobility
+8	Engine
+9	None
+10	None
+11	None
+12	Lose HT special

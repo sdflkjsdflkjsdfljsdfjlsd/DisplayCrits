@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Vision Quest VQ-1NC.mtf
+==================================================
+
+2	Weapon 1-1-1
+3	Weapon 1-1-0
+4	Unit Killed (Engine)
+5	Mobility
+6	Engine
+7	Improved Gauss Rifle
+8	Engine
+9	CLImpGaussAmmo
+10	FCS
+11	None
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 5

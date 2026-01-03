@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Wolfhound WLF-1B.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	None
+5	Engine
+6	Mobility
+7	Engine
+8	Weapon 1-1-0
+9	Mobility
+10	Weapon 1-1-0
+11	Weapon 1-1-0
+12	Weapon 1-1-0

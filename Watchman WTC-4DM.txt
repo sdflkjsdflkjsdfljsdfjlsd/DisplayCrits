@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Watchman WTC-4DM.mtf
+==================================================
+
+2	FCS
+3	Engine
+4	Weapon 1-1-0
+5	Engine
+6	Mobility
+7	Weapon 1-1-1
+8	None
+9	None
+10	Weapon 1-1-1
+11	None
+12	Unit Killed

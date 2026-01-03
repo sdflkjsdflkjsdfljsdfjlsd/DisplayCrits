@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Vindicator VND-5L.mtf
+==================================================
+
+2	Unit Killed
+3	Engine
+4	Weapon 1-1-1
+5	Weapon 1-1-0
+6	Engine
+7	None
+8	Mobility
+9	None
+10	Lose MEL special
+11	Weapon 1-1-0
+12	FCS
