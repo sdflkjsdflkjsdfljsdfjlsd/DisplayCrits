@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Vindicator VND-6L.mtf
+==================================================
+
+2	Unit Killed
+3	Lose MEL special
+4	ISPlasmaRifle Ammo
+5	Engine
+6	Weapon 1-1-0
+7	Stealth Armor
+8	None
+9	ISPlasmaRifle
+10	Mobility
+11	FCS
+12	Lose non-weapon specials

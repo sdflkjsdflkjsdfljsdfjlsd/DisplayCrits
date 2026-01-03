@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Lao Hu LHU-4E.mtf
+==================================================
+
+2	Weapon 1-2-2
+3	None
+4	Weapon 1-1-0
+5	ISHeavyPPC
+6	Stealth Armor
+7	Engine
+8	Engine
+9	Mobility
+10	Stealth Armor
+11	Engine
+12	Unit Killed

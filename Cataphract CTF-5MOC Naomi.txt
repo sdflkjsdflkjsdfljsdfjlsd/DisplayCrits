@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Cataphract CTF-5MOC Naomi.mtf
+==================================================
+
+2	Lose non-weapon specials
+3	ISPlasmaRifle
+4	ISPlasmaRifle Ammo
+5	None
+6	Engine
+7	Stealth Armor
+8	Engine
+9	Weapon 1-1-0
+10	ISHeavyPPC
+11	Mobility
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 6

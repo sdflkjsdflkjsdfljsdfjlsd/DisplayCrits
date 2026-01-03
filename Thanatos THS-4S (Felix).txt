@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Thanatos THS-4S (Felix).mtf
+==================================================
+
+2	Lose non-weapon specials
+3	Weapon 1-1-1
+4	None
+5	FCS
+6	Weapon 1-1-0
+7	Engine
+8	Weapon 1-1-0
+9	Engine
+10	Mobility
+11	Engine
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 6
