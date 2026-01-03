@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Tai-sho TSH-7S.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Weapon 2-2-2
+4	None
+5	Mobility
+6	Engine
+7	ISC3MasterUnit
+8	ISC3MasterUnit
+9	Weapon 1-1-1
+10	Ammo explosion
+11	FCS
+12	Unit Killed

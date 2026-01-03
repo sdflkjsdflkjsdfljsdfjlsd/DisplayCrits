@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Axman AXM-3S.mtf
+==================================================
+
+2	Lose non-weapon specials
+3	Unit Killed (Engine)
+4	Weapon 1-1-0
+5	Mobility
+6	None
+7	Engine
+8	Ammo explosion
+9	Weapon 2-2-0
+10	Lose MEL special
+11	FCS
+12	Unit Killed

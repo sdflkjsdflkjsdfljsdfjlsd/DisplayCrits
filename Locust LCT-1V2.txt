@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Locust LCT-1V2.mtf
+==================================================
+
+2	Engine
+3	Mobility
+4	None
+5	None
+6	Engine
+7	Weapon 1-1-1
+8	Mobility
+9	Weapon 1-1-1
+10	Mobility
+11	Mobility
+12	Weapon 1-1-1

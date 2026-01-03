@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Men Shen MS1-OD.mtf
+==================================================
+
+2	Lose non-weapon specials
+3	Ammo explosion
+4	Unit Killed (Engine)
+5	Engine
+6	None
+7	Engine
+8	Mobility
+9	Engine
+10	Weapon 1-1-0
+11	Weapon 1-1-1
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 5

@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: BattleMaster BLR-3S.mtf
+==================================================
+
+2	Unit Killed
+3	Ammo explosion
+4	Mobility
+5	Engine
+6	None
+7	Engine
+8	Weapon 1-2-2
+9	None
+10	Weapon 1-1-0
+11	Unit Killed (Engine)
+12	FCS
+
+Note: Mech has XL Engine. Structure pips required: 7

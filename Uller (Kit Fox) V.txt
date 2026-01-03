@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Uller (Kit Fox) V.mtf
+==================================================
+
+2	FCS
+3	Mobility
+4	Engine
+5	None
+6	Reduce ARTAC special by 1
+7	Engine
+8	Ammo explosion
+9	Mobility
+10	Engine
+11	Engine
+12	Unit Killed (Engine)
+
+Note: Mech has XL Engine. Structure pips required: 3

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Cicada CDA-3C.mtf
+==================================================
+
+2	Unit Killed
+3	Engine
+4	Weapon 1-1-1
+5	Weapon 1-1-1
+6	Mobility
+7	Engine
+8	None
+9	Mobility
+10	Weapon 1-1-1
+11	None
+12	Ammo explosion
