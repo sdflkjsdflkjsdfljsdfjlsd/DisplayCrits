@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Assassin ASN-21.mtf
+==================================================
+
+2	Weapon 0-1-1
+3	Weapon 1-1-0
+4	Mobility
+5	Engine
+6	Ammo explosion
+7	Mobility
+8	None
+9	None
+10	None
+11	None
+12	Ammo explosion

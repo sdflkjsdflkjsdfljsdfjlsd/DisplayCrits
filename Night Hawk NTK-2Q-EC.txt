@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Night Hawk NTK-2Q-EC.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	Weapon 1-1-1
+4	Mobility
+5	Unit Killed (Engine)
+6	None
+7	Engine
+8	Engine
+9	Mobility
+10	history:A prototype ER medium laser improved the range of the older pulse model, while an additional half ton of armor offered additional protection for aggressive Jaguar warriors.
+11	CLERMediumLaserPrototype
+12	FCS
+
+Note: Mech has XL Engine. Structure pips required: 3

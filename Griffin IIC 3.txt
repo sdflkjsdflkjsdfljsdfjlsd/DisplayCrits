@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Griffin IIC 3.mtf
+==================================================
+
+2	Unit Killed
+3	Weapon 1-1-0
+4	None
+5	Weapon 1-1-0
+6	Ammo explosion
+7	None
+8	Engine
+9	Mobility
+10	Weapon 1-1-0
+11	None
+12	Weapon 1-1-1

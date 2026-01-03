@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Cataphract CTF-0X.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Weapon 1-1-0
+4	Unit Killed
+5	Mobility
+6	Engine
+7	Weapon 1-1-1
+8	ISElectronicWarfareEquipment
+9	Ammo explosion
+10	None
+11	FCS
+12	RemoteSensorDispenser

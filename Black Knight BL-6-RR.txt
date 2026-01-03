@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Black Knight BL-6-RR.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Weapon 2-2-2
+4	Lose non-weapon specials
+5	Engine
+6	Weapon 1-1-0
+7	None
+8	Mobility
+9	Weapon 1-1-0
+10	Engine
+11	FCS
+12	Unit Killed

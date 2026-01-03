@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Akuma AKU-1X.mtf
+==================================================
+
+2	FCS
+3	Unit Killed
+4	Weapon 2-2-0
+5	Engine
+6	Weapon 1-1-0
+7	None
+8	Ammo explosion
+9	Ammo explosion
+10	Mobility
+11	Weapon 1-1-1
+12	None

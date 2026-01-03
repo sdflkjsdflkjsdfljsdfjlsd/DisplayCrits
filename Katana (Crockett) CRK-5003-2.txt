@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Katana (Crockett) CRK-5003-2.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	None
+4	Mobility
+5	FCS
+6	Engine
+7	Weapon 1-1-0
+8	None
+9	Ammo explosion
+10	Weapon 1-1-0
+11	Mobility
+12	Unit Killed

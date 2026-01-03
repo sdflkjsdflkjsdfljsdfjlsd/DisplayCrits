@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Mauler MAL-3R.mtf
+==================================================
+
+2	Lose non-weapon specials
+3	Weapon 1-1-0
+4	Weapon 1-1-1
+5	Mobility
+6	Ammo explosion
+7	Engine
+8	Engine
+9	Ammo explosion
+10	FCS
+11	None
+12	Unit Killed

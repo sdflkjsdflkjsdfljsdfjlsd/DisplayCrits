@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Vixen (Incubus) 5.mtf
+==================================================
+
+2	FCS
+3	None
+4	Mobility
+5	CLLightMG
+6	CLLightMG
+7	Engine
+8	Ammo explosion
+9	Engine
+10	Weapon 1-1-0
+11	Weapon 2-1-0
+12	Unit Killed (Engine)
+
+Note: Mech has XL Engine. Structure pips required: 3

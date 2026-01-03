@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Naja KTO-19b-EC.mtf
+==================================================
+
+2	CLImpAmmoSRM6
+3	Weapon 1-2-2
+4	Improved SRM 6
+5	Mobility
+6	None
+7	Engine
+8	Unit Killed (Engine)
+9	FCS
+10	Ammo explosion
+11	Weapon 1-1-0
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 5

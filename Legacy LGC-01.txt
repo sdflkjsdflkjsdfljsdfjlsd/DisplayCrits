@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Legacy LGC-01.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	ISC3iUnit
+5	Mobility
+6	Engine
+7	None
+8	Ammo explosion
+9	Weapon 2-2-2
+10	Weapon 1-1-0
+11	Ammo explosion
+12	None

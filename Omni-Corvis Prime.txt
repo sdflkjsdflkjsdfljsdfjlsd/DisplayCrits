@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Omni-Corvis Prime.mtf
+==================================================
+
+2	primaryfactory:Tokasha, Niles
+3	FCS
+4	Weapon 1-1-1
+5	Mobility
+6	Engine
+7	Ammo explosion
+8	None
+9	Weapon 2-2-2
+10	Weapon 1-1-0
+11	Unit Killed
+12	manufacturer:Niles Industriplex Alpha

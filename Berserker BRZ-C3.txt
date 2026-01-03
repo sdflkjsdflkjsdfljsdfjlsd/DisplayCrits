@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Berserker BRZ-C3.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	Unit Killed (Engine)
+5	Weapon 1-1-0
+6	Mobility
+7	Engine
+8	Weapon 1-1-1
+9	Lose non-weapon specials
+10	None
+11	Lose MEL special
+12	Ammo explosion

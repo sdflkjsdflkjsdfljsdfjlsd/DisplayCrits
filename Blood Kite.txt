@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Blood Kite.mtf
+==================================================
+
+2	FCS
+3	Weapon 1-1-0
+4	Mobility
+5	Engine
+6	CLLRM15 Ammo
+7	Weapon 1-1-1
+8	None
+9	None
+10	CLLRM15 Ammo
+11	Unit Killed
+12	Ammo explosion

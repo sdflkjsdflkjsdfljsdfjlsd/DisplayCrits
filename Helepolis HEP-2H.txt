@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Helepolis HEP-2H.mtf
+==================================================
+
+2	FCS
+3	Weapon 1-1-0
+4	Mobility
+5	Engine
+6	ISSniperAmmo
+7	ISSniper
+8	ISSniper
+9	Weapon 0-1-1
+10	None
+11	Ammo explosion
+12	Unit Killed

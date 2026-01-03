@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Merlin MLN-1B.mtf
+==================================================
+
+2	Unit Killed
+3	Lose HT special
+4	Weapon 1-1-0
+5	None
+6	Mobility
+7	Engine
+8	None
+9	None
+10	Ammo explosion
+11	Weapon 1-1-1
+12	Weapon 0-1-1
