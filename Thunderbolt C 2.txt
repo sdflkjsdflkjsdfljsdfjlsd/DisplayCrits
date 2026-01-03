@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Thunderbolt C 2.mtf
+==================================================
+
+2	Lose non-weapon specials
+3	Weapon 2-2-2
+4	FCS
+5	Mobility
+6	Weapon 1-1-0
+7	None
+8	Engine
+9	Weapon 1-1-0
+10	Ammo explosion
+11	None
+12	Unit Killed

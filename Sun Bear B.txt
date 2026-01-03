@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Sun Bear B.mtf
+==================================================
+
+2	notes:2 tons over weight
+3	Unit Killed (Engine)
+4	None
+5	Weapon 1-2-2
+6	Mobility
+7	Engine
+8	Weapon 1-1-0
+9	Weapon 1-1-1
+10	Ammo explosion
+11	FCS
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 5

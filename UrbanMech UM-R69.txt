@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: UrbanMech UM-R69.mtf
+==================================================
+
+2	FCS
+3	Mobility
+4	None
+5	Weapon 2-2-2
+6	Engine
+7	None
+8	Mobility
+9	Ammo explosion
+10	Engine
+11	Weapon 2-2-2
+12	Unit Killed

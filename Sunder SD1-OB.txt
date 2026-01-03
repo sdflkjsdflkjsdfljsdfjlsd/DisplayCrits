@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Sunder SD1-OB.mtf
+==================================================
+
+2	Unit Killed
+3	None
+4	FCS
+5	Ammo explosion
+6	ISC3MasterUnit
+7	Engine
+8	Weapon 1-2-2
+9	Mobility
+10	Unit Killed (Engine)
+11	Weapon 1-1-0
+12	Weapon 0-1-1
+
+Note: Mech has XL Engine. Structure pips required: 7

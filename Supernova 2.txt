@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Supernova 2.mtf
+==================================================
+
+2	Ammo explosion
+3	Unit Killed
+4	Mobility
+5	Weapon 2-2-1
+6	Engine
+7	None
+8	Ammo explosion
+9	Weapon 1-1-1
+10	FCS
+11	None
+12	None

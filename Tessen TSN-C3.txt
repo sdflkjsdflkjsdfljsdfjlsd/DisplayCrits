@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Tessen TSN-C3.mtf
+==================================================
+
+2	FCS
+3	None
+4	Weapon 1-1-0
+5	Mobility
+6	Engine
+7	Engine
+8	Engine
+9	Unit Killed (Engine)
+10	Lose non-weapon specials
+11	Weapon 1-1-1
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 4

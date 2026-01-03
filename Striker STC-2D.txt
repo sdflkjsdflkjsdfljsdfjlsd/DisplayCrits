@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Striker STC-2D.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Unit Killed
+4	FCS
+5	Weapon 1-1-0
+6	None
+7	Mobility
+8	Engine
+9	Weapon 1-1-1
+10	Ammo explosion
+11	Engine
+12	Ammo explosion

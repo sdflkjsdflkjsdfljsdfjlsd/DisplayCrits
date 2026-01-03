@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Thorn THE-F.mtf
+==================================================
+
+2	None
+3	None
+4	Weapon 0-1-1
+5	Engine
+6	Ammo explosion
+7	Mobility
+8	None
+9	Mobility
+10	Weapon 1-1-0
+11	Engine
+12	None

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Vanquisher VQR-2B.mtf
+==================================================
+
+2	Lose non-weapon specials
+3	Weapon 1-1-0
+4	None
+5	Mobility
+6	Weapon 1-1-1
+7	Ammo explosion
+8	Engine
+9	Ammo explosion
+10	Unit Killed
+11	FCS
+12	Engine

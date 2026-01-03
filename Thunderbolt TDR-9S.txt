@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Thunderbolt TDR-9S.mtf
+==================================================
+
+2	Unit Killed
+3	Weapon 1-1-1
+4	FCS
+5	Mobility
+6	None
+7	Engine
+8	Ammo explosion
+9	Weapon 1-1-0
+10	None
+11	Lose HT special
+12	Lose non-weapon specials

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Thug THG-12K.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Ammo explosion
+4	Weapon 1-1-0
+5	Mobility
+6	None
+7	Engine
+8	None
+9	Weapon 1-1-1
+10	FCS
+11	Lose non-weapon specials
+12	Unit Killed

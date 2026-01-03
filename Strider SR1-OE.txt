@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Strider SR1-OE.mtf
+==================================================
+
+2	Unit Killed
+3	Engine
+4	FCS
+5	Engine
+6	Ammo explosion
+7	Mobility
+8	None
+9	Weapon 1-1-0
+10	Weapon 1-1-0
+11	Ammo explosion
+12	Mobility

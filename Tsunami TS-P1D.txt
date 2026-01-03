@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Tsunami TS-P1D.mtf
+==================================================
+
+2	Unit Killed
+3	ISMagshotGR Ammo
+4	Ammo explosion
+5	Mobility
+6	None
+7	ISMagshotGR
+8	Engine
+9	ISMagshotGR
+10	None
+11	Weapon 1-1-0
+12	ISMagshotGR

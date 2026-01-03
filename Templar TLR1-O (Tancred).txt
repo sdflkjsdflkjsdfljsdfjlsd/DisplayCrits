@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Templar TLR1-O (Tancred).mtf
+==================================================
+
+2	Weapon 1-1-0
+3	Weapon 1-1-1
+4	Ammo explosion
+5	Weapon 1-2-2
+6	Engine
+7	FCS
+8	Engine
+9	Mobility
+10	Unit Killed (Engine)
+11	Unit Killed
+12	None
+
+Note: Mech has XL Engine. Structure pips required: 7
