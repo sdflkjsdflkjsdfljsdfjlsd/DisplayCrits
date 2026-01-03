@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Behemoth (Stone Rhino) 7.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	FCS
+4	Engine
+5	Engine
+6	Mobility
+7	None
+8	Weapon 1-1-1
+9	None
+10	None
+11	Weapon 1-1-1
+12	Unit Killed

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Blackjack BJ-1.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Ammo explosion
+4	FCS
+5	Engine
+6	Mobility
+7	Weapon 1-1-0
+8	None
+9	Engine
+10	None
+11	Mobility
+12	Unit Killed

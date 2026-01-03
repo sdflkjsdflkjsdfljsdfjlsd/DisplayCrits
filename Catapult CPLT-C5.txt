@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Catapult CPLT-C5.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	ISArrowIV Homing Ammo
+4	Mobility
+5	Engine
+6	None
+7	Reduce ARTAIS special by 1
+8	Reduce ARTAIS special by 1
+9	Reduce ARTAIS special by 1
+10	Reduce ARTAIS special by 1
+11	Ammo explosion
+12	Unit Killed

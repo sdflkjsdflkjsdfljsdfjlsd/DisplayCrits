@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Cestus CTS-6Z.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	Mobility
+5	Weapon 1-1-0
+6	None
+7	Engine
+8	Engine
+9	None
+10	Weapon 1-1-1
+11	Unit Killed (Engine)
+12	Unit Killed (Engine)
+
+Note: Mech has XL Engine. Structure pips required: 5

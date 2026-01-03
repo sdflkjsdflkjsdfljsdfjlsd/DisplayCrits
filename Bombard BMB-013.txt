@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Bombard BMB-013.mtf
+==================================================
+
+2	Unit Killed
+3	Unit Killed (Engine)
+4	Mobility
+5	None
+6	IS Ammo Thunderbolt-15
+7	Engine
+8	Thunderbolt 15
+9	Engine
+10	IS Ammo Thunderbolt-15
+11	Spikes
+12	Weapon 1-1-0
+
+Note: Mech has XL Engine. Structure pips required: 4

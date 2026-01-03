@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Caesar CES-4R.mtf
+==================================================
+
+2	ISERMediumLaser (R)
+3	ISSNPPC
+4	Unit Killed (Engine)
+5	Engine
+6	None
+7	Engine
+8	Mobility
+9	Engine
+10	Weapon 1-1-0
+11	Weapon 1-2-2
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 6

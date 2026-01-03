@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Black Lanner E.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	Weapon 3-2-1
+5	Ammo explosion
+6	Ammo explosion
+7	Engine
+8	Weapon 1-1-0
+9	Engine
+10	Mobility
+11	Weapon 1-1-0
+12	Unit Killed (Engine)
+
+Note: Mech has XL Engine. Structure pips required: 5

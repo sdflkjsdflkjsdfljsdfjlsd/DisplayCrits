@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Cerberus MR-5M.mtf
+==================================================
+
+2	None
+3	Weapon 1-1-1
+4	Unit Killed (Engine)
+5	Mobility
+6	Unit Killed
+7	Engine
+8	Machine Gun (R)
+9	Weapon 1-1-0
+10	FCS
+11	Weapon 1-2-2
+12	Ammo explosion
+
+Note: Mech has XL Engine. Structure pips required: 8

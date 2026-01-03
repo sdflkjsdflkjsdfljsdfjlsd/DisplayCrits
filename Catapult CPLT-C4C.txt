@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Catapult CPLT-C4C.mtf
+==================================================
+
+2	Unit Killed
+3	Unit Killed (Engine)
+4	None
+5	FCS
+6	Engine
+7	Weapon 1-2-2
+8	Weapon 1-2-2
+9	Ammo explosion
+10	Mobility
+11	Lose non-weapon specials
+12	Weapon 1-1-0
+
+Note: Mech has XL Engine. Structure pips required: 5

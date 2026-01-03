@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Black Knight BL-7-KNT.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	FCS
+4	Engine
+5	None
+6	Weapon 1-1-1
+7	Mobility
+8	Engine
+9	Weapon 1-1-0
+10	None
+11	Weapon 1-1-0
+12	Unit Killed

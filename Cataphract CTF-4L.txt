@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Cataphract CTF-4L.mtf
+==================================================
+
+2	Unit Killed
+3	Weapon 1-1-0
+4	None
+5	Weapon 1-2-2
+6	Stealth Armor
+7	Engine
+8	Mobility
+9	Weapon 1-1-1
+10	FCS
+11	Lose non-weapon specials
+12	Unit Killed (Engine)

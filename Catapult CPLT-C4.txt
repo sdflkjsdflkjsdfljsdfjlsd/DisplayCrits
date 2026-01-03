@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Catapult CPLT-C4.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	Mobility
+5	Engine
+6	Ammo explosion
+7	Weapon 1-2-2
+8	Weapon 1-2-2
+9	None
+10	Weapon 1-2-2
+11	Weapon 1-2-2
+12	Ammo explosion

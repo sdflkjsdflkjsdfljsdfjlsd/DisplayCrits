@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Cataphract CTF-3L.mtf
+==================================================
+
+2	FCS
+3	Ammo explosion
+4	Unit Killed (Engine)
+5	None
+6	Mobility
+7	Engine
+8	Engine
+9	Mobility
+10	Weapon 1-1-0
+11	Weapon 1-1-1
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 6

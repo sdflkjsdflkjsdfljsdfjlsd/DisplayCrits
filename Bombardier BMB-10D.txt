@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Bombardier BMB-10D.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	Mobility
+4	Weapon 1-2-2
+5	Mobility
+6	None
+7	Engine
+8	Ammo explosion
+9	Weapon 1-2-2
+10	Weapon 1-2-2
+11	Weapon 1-2-2
+12	Unit Killed

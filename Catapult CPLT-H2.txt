@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Catapult CPLT-H2.mtf
+==================================================
+
+2	FCS
+3	Weapon 1-1-0
+4	Mobility
+5	Engine
+6	ISRocketLauncher20
+7	ISRocketLauncher20
+8	ISRocketLauncher20
+9	Weapon 1-1-1
+10	None
+11	ISRocketLauncher20
+12	Unit Killed

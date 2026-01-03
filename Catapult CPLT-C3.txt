@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Catapult CPLT-C3.mtf
+==================================================
+
+2	Ammo explosion
+3	Weapon 1-1-0
+4	Mobility
+5	Engine
+6	Reduce ARTAIS special by 1
+7	None
+8	Reduce ARTAIS special by 1
+9	Reduce ARTAIS special by 1
+10	Reduce ARTAIS special by 1
+11	Reduce ARTAIS special by 1
+12	Mobility

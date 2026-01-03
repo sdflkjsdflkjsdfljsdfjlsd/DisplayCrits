@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Behemoth (Stone Rhino) 5.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Unit Killed
+4	Engine
+5	FCS
+6	Weapon 1-1-0
+7	Engine
+8	Mobility
+9	Ammo explosion
+10	Weapon 1-1-0
+11	Weapon 1-1-0
+12	None
+
+Note: Mech has XL Engine. Structure pips required: 8

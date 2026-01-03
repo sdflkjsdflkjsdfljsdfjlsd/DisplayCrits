@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: BattleMaster BLR-5M.mtf
+==================================================
+
+2	FCS
+3	Unit Killed
+4	Weapon 1-1-1
+5	None
+6	Engine
+7	Mobility
+8	Engine
+9	Weapon 1-1-0
+10	ISERMediumLaser (R)
+11	Weapon 0-1-1
+12	Unit Killed (Engine)
