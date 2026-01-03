@@ -11,7 +11,7 @@ def display_mech_content(filename):
         content = f.read()
     
     st.success(f"Displaying data for: **{filename}**")
-    st.subheader("Critical Table Simulation")
+    st.subheader("Critical hits")
     
     # Simple code block display for the raw MTF format
     st.code(content, language="text")
