@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Raven RVN-4X.mtf
+==================================================
+
+2	Unit Killed
+3	Ammo explosion
+4	FCS
+5	Mobility
+6	Ammo explosion
+7	Weapon 1-1-0
+8	Engine
+9	None
+10	None
+11	Weapon 1-1-0
+12	Mobility

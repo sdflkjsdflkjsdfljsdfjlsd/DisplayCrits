@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Silver Fox SVR-5X.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	ISAngelECMSuite
+4	FCS
+5	Reflective
+6	ISMagshotGR
+7	Engine
+8	Engine
+9	ISMagshotGR Ammo
+10	Unit Killed (Engine)
+11	Mobility
+12	None
+
+Note: Mech has XL Engine. Structure pips required: 3

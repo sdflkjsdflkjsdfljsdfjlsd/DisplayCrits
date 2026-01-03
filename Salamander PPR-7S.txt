@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Salamander PPR-7S.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	FCS
+4	Mobility
+5	None
+6	Engine
+7	Ammo explosion
+8	Weapon 1-1-1
+9	Engine
+10	None
+11	Unit Killed
+12	Unit Killed (Engine)

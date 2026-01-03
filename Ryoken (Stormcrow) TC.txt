@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Ryoken (Stormcrow) TC.mtf
+==================================================
+
+2	Weapon 1-2-2
+3	Unit Killed (Engine)
+4	Mobility
+5	Engine
+6	FCS
+7	Engine
+8	Weapon 1-1-0
+9	FCS
+10	Mobility
+11	None
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 5

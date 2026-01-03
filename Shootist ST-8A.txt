@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Shootist ST-8A.mtf
+==================================================
+
+2	FCS
+3	Weapon 1-1-0
+4	Weapon 1-1-1
+5	Ammo explosion
+6	Mobility
+7	Engine
+8	None
+9	None
+10	Weapon 2-2-0
+11	Unit Killed
+12	Unit Killed (Engine)

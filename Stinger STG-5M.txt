@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Stinger STG-5M.mtf
+==================================================
+
+2	Unit Killed
+3	Lose HT special
+4	Ammo explosion
+5	Lose non-weapon specials
+6	Engine
+7	Mobility
+8	None
+9	Mobility
+10	None
+11	Weapon 1-1-0
+12	Lose non-weapon specials

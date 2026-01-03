@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Sha Yu SYU-4B.mtf
+==================================================
+
+2	Ammo explosion
+3	None
+4	Weapon 1-1-0
+5	Lose non-weapon specials
+6	Stealth Armor
+7	Engine
+8	Engine
+9	Stealth Armor
+10	Mobility
+11	Unit Killed (Engine)
+12	Lose non-weapon specials
+
+Note: Mech has XL Engine. Structure pips required: 3

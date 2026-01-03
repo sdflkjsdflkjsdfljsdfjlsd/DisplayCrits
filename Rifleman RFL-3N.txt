@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Rifleman RFL-3N.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Unit Killed
+4	FCS
+5	Mobility
+6	Engine
+7	Weapon 1-1-0
+8	Mobility
+9	Engine
+10	Weapon 1-1-1
+11	Ammo explosion
+12	None

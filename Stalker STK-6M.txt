@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Stalker STK-6M.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	Mobility
+5	Weapon 1-1-0
+6	Weapon 1-1-1
+7	None
+8	Ammo explosion
+9	Engine
+10	None
+11	Ammo explosion
+12	FCS

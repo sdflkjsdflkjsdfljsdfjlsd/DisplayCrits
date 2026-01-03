@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Spector SPR-4F.mtf
+==================================================
+
+2	FCS
+3	None
+4	Mobility
+5	Chameleon Light Polarization Field
+6	Engine
+7	Engine
+8	None
+9	Mek Null Signature System
+10	Unit Killed (Engine)
+11	Weapon 1-1-0
+12	Lose non-weapon specials
+
+Note: Mech has XL Engine. Structure pips required: 3

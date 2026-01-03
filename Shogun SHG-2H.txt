@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Shogun SHG-2H.mtf
+==================================================
+
+2	Unit Killed
+3	Ammo explosion
+4	Mobility
+5	FCS
+6	Engine
+7	None
+8	Weapon 1-1-1
+9	Ammo explosion
+10	None
+11	Weapon 1-1-1
+12	Mobility

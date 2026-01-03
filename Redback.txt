@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Redback.mtf
+==================================================
+
+2	Unit Killed
+3	Weapon 1-1-1
+4	Mobility
+5	None
+6	None
+7	Engine
+8	CLWERPPC
+9	Engine
+10	Lose non-weapon specials
+11	Unit Killed (Engine)
+12	CLERMediumLaserPrototype
+
+Note: Mech has XL Engine. Structure pips required: 6

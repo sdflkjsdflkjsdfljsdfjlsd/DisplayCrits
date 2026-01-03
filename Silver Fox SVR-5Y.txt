@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Silver Fox SVR-5Y.mtf
+==================================================
+
+2	FCS
+3	Unit Killed (Engine)
+4	ISMagshotGR Ammo
+5	Lose non-weapon specials
+6	ISMagshotGR
+7	Reflective
+8	Engine
+9	ISMagshotGR
+10	Mobility
+11	Weapon 1-1-0
+12	None

@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Scylla.mtf
+==================================================
+
+2	Ammo explosion
+3	Unit Killed
+4	FCS
+5	CLLRM20 Ammo
+6	None
+7	Engine
+8	Weapon 1-2-2
+9	Weapon 1-1-0
+10	Mobility
+11	CLLBXAC10 CL Ammo
+12	Unit Killed (Engine)
+
+Note: Mech has XL Engine. Structure pips required: 8

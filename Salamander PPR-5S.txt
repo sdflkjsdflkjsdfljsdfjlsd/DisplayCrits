@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Salamander PPR-5S.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Unit Killed
+4	Weapon 1-2-2
+5	Ammo explosion
+6	None
+7	Weapon 1-2-2
+8	Engine
+9	Engine
+10	Ammo explosion
+11	Mobility
+12	FCS
+
+Note: Mech has XL Engine. Structure pips required: 6
