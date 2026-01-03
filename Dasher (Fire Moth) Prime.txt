@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Dasher (Fire Moth) Prime.mtf
+==================================================
+
+2	FCS
+3	None
+4	Weapon 1-1-0
+5	Mobility
+6	Ammo explosion
+7	Engine
+8	Weapon 1-1-0
+9	Engine
+10	Engine
+11	Mobility
+12	Unit Killed (Engine)
+
+Note: Mech has XL Engine. Structure pips required: 2

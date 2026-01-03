@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Charger CGR-1A1.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Engine
+4	Mobility
+5	Engine
+6	Engine
+7	Mobility
+8	None
+9	None
+10	None
+11	None
+12	Unit Killed

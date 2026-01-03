@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Commando IIC.mtf
+==================================================
+
+2	FCS
+3	None
+4	Weapon 1-1-0
+5	Weapon 1-1-0
+6	None
+7	Mobility
+8	Ammo explosion
+9	Engine
+10	Weapon 1-1-0
+11	Weapon 1-1-0
+12	Ammo explosion

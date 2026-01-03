@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Clint CLNT-1-2R.mtf
+==================================================
+
+2	FCS
+3	None
+4	Mobility
+5	Engine
+6	Weapon 1-1-0
+7	Mobility
+8	None
+9	Ammo explosion
+10	Engine
+11	Ammo explosion
+12	FCS

@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Daishi (Dire Wolf) W.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	Unit Killed (Engine)
+4	Weapon 1-2-2
+5	Unit Killed
+6	Engine
+7	None
+8	Ammo explosion
+9	Mobility
+10	Weapon 3-3-0
+11	Weapon 1-1-1
+12	FCS
+
+Note: Mech has XL Engine. Structure pips required: 8

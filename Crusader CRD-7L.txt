@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Crusader CRD-7L.mtf
+==================================================
+
+2	Unit Killed
+3	Weapon 1-1-0
+4	Mobility
+5	Ammo explosion
+6	Engine
+7	Stealth
+8	None
+9	Stealth
+10	Weapon 1-1-1
+11	FCS
+12	Lose non-weapon specials

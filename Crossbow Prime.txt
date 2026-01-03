@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Crossbow Prime.mtf
+==================================================
+
+2	None
+3	Weapon 1-2-2
+4	FCS
+5	Engine
+6	Mobility
+7	Ammo explosion
+8	Weapon 1-2-2
+9	Ammo explosion
+10	Engine
+11	Ammo explosion
+12	Unit Killed

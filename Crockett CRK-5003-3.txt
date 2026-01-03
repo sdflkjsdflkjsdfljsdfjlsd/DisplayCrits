@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Crockett CRK-5003-3.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	None
+4	Weapon 1-1-0
+5	Weapon 1-1-1
+6	Engine
+7	None
+8	Ammo explosion
+9	Mobility
+10	FCS
+11	Ammo explosion
+12	Unit Killed

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Crossbow D.mtf
+==================================================
+
+2	Unit Killed
+3	None
+4	Mobility
+5	Clan Mech Mortar-8
+6	Engine
+7	Clan Mech Mortar-8
+8	Clan Ammo SC Mortar-8
+9	Clan Ammo SC Mortar-8
+10	Clan Ammo SC Mortar-8
+11	Clan Mech Mortar-8
+12	Mobility

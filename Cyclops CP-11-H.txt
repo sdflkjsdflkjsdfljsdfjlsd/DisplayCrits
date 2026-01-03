@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Cyclops CP-11-H.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Weapon 2-2-0
+4	None
+5	Mobility
+6	Engine
+7	ISRocketLauncher20
+8	ISRocketLauncher20
+9	ISRocketLauncher20
+10	Weapon 1-1-0
+11	Ammo explosion
+12	Unit Killed

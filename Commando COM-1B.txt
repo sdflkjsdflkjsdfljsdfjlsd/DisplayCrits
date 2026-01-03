@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Commando COM-1B.mtf
+==================================================
+
+2	FCS
+3	Weapon 1-1-0
+4	Mobility
+5	Ammo explosion
+6	Weapon 1-1-0
+7	None
+8	Mobility
+9	Engine
+10	None
+11	Engine
+12	Unit Killed

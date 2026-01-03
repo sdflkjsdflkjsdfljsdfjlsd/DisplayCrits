@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Cossack C-SK1.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	Weapon 1-1-0
+4	Unit Killed (Engine)
+5	Engine
+6	None
+7	Mobility
+8	Engine
+9	Engine
+10	Engine
+11	Engine
+12	Ammo explosion
+
+Note: Mech has XL Engine. Structure pips required: 2

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Charger CGR-2A2.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Weapon 1-1-0
+4	Mobility
+5	Mobility
+6	Engine
+7	None
+8	ISRocketLauncher10
+9	Engine
+10	ISRocketLauncher10
+11	ISRocketLauncher10
+12	Unit Killed

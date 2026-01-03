@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Cobra CBR-02.mtf
+==================================================
+
+2	Unit Killed
+3	None
+4	Weapon 1-1-0
+5	Ammo explosion
+6	Engine
+7	Weapon 1-1-1
+8	Mobility
+9	Ammo explosion
+10	Mobility
+11	FCS
+12	Engine

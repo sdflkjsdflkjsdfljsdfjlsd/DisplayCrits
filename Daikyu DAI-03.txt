@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Daikyu DAI-03.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	Weapon 1-1-0
+5	None
+6	Engine
+7	Mobility
+8	Engine
+9	Weapon 1-1-1
+10	Ammo explosion
+11	Unit Killed (Engine)
+12	Lose non-weapon specials

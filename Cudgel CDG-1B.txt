@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Cudgel CDG-1B.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	Unit Killed (Engine)
+4	Mace
+5	Mobility
+6	Mace
+7	Engine
+8	None
+9	Engine
+10	None
+11	Ammo explosion
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 6

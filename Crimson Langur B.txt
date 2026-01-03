@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Crimson Langur B.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	Mobility
+5	None
+6	Engine
+7	Ammo explosion
+8	Weapon 1-1-0
+9	Engine
+10	Weapon 2-2-1
+11	Unit Killed (Engine)
+12	Lose non-weapon specials
+
+Note: Mech has XL Engine. Structure pips required: 4

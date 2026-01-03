@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Crab CRB-27.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Mobility
+4	FCS
+5	Weapon 1-1-0
+6	None
+7	Engine
+8	Mobility
+9	Engine
+10	Weapon 1-1-0
+11	None
+12	Unit Killed

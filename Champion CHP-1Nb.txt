@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Champion CHP-1Nb.mtf
+==================================================
+
+2	Unit Killed
+3	None
+4	Weapon 1-1-1
+5	Mobility
+6	None
+7	Mobility
+8	Engine
+9	Engine
+10	Weapon 1-2-2
+11	Engine
+12	None

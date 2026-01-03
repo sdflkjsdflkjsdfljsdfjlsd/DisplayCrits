@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Crossbow C.mtf
+==================================================
+
+2	Unit Killed
+3	Clan Heavy Machine Gun Ammo - Full
+4	Ammo explosion
+5	CLHeavyMG
+6	Engine
+7	Ammo explosion
+8	Weapon 2-1-0
+9	Mobility
+10	Lose non-weapon specials
+11	FCS
+12	Lose non-weapon specials
