@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Morpheus MRP-3T.mtf
+==================================================
+
+2	ISLaserAntiMissileSystem
+3	Mobility
+4	Unit Killed (Engine)
+5	None
+6	Reactive
+7	Engine
+8	Reactive
+9	Engine
+10	Weapon 1-1-0
+11	FCS
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 5

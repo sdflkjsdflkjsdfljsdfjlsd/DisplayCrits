@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Nexus II NXS2-A.mtf
+==================================================
+
+2	FCS
+3	Unit Killed (Engine)
+4	Weapon 1-1-0
+5	Engine
+6	None
+7	Engine
+8	Mobility
+9	Engine
+10	Engine
+11	Engine
+12	ISC3iUnit

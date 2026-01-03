@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Orion ON1-K (Kerensky).mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Unit Killed
+4	Ammo explosion
+5	Weapon 1-1-0
+6	None
+7	Engine
+8	Mobility
+9	ISSNPPC
+10	Weapon 1-2-2
+11	None
+12	FCS

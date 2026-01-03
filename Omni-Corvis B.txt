@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Omni-Corvis B.mtf
+==================================================
+
+2	manufacturer:Niles Industriplex Alpha
+3	Lose non-weapon specials
+4	Mobility
+5	Engine
+6	None
+7	Ammo explosion
+8	Weapon 1-2-2
+9	Ammo explosion
+10	FCS
+11	Unit Killed
+12	primaryfactory:Tokasha, Niles

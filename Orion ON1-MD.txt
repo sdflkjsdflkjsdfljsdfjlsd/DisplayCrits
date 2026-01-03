@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Orion ON1-MD.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	Weapon 1-1-0
+5	Ammo explosion
+6	Weapon 1-2-2
+7	Engine
+8	Engine
+9	None
+10	Mobility
+11	Unit Killed (Engine)
+12	Lose non-weapon specials
+
+Note: Mech has XL Engine. Structure pips required: 6

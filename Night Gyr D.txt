@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Night Gyr D.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Weapon 1-1-1
+4	Mobility
+5	Engine
+6	Weapon 1-2-2
+7	Engine
+8	Ammo explosion
+9	Ammo explosion
+10	None
+11	FCS
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 6

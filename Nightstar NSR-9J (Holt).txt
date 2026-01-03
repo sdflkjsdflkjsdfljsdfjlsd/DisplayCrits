@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Nightstar NSR-9J (Holt).mtf
+==================================================
+
+2	Weapon 1-1-1
+3	ISAngelECMSuite
+4	Unit Killed (Engine)
+5	Weapon 1-2-2
+6	None
+7	Engine
+8	Engine
+9	Weapon 2-2-2
+10	Mobility
+11	FCS
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 8

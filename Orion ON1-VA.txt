@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Orion ON1-VA.mtf
+==================================================
+
+2	Unit Killed
+3	None
+4	Ammo explosion
+5	Mobility
+6	Weapon 1-1-0
+7	Ammo explosion
+8	FCS
+9	Engine
+10	Weapon 1-1-0
+11	Engine
+12	None

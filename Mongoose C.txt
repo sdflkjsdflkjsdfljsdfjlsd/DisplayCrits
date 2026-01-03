@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Mongoose C.mtf
+==================================================
+
+2	Weapon 1-1-1
+3	Lose non-weapon specials
+4	None
+5	None
+6	Engine
+7	Weapon 1-1-0
+8	Engine
+9	Mobility
+10	Engine
+11	Unit Killed (Engine)
+12	Mobility
+
+Note: Mech has XL Engine. Structure pips required: 2

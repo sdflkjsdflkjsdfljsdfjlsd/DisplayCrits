@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Orion IIC.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	FCS
+4	None
+5	Weapon 1-1-1
+6	Mobility
+7	Engine
+8	Ammo explosion
+9	Weapon 1-2-2
+10	Engine
+11	Unit Killed
+12	Unit Killed (Engine)

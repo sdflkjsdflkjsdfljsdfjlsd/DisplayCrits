@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Naginata NG-C3B.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	Mobility
+5	Weapon 1-1-1
+6	Ammo explosion
+7	ISC3MasterUnit
+8	None
+9	Engine
+10	ISC3MasterUnit
+11	None
+12	Lose non-weapon specials

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Ostscout OTT-7J.mtf
+==================================================
+
+2	Unit Killed
+3	Engine
+4	None
+5	Mobility
+6	Mobility
+7	Engine
+8	None
+9	None
+10	None
+11	Mobility
+12	Weapon 1-1-0
