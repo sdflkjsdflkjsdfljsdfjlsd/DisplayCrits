@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: King Crab KGC-005.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	FCS
+4	None
+5	Mobility
+6	Engine
+7	Weapon 2-2-0
+8	Ammo explosion
+9	Ammo explosion
+10	Unit Killed
+11	Weapon 1-1-1
+12	Lose non-weapon specials
