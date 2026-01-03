@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Lineholder KW1-LH3.mtf
+==================================================
+
+2	Unit Killed
+3	Weapon 1-1-0
+4	Weapon 1-1-1
+5	FCS
+6	None
+7	Mobility
+8	Engine
+9	Ammo explosion
+10	Weapon 0-1-1
+11	Engine
+12	Unit Killed (Engine)

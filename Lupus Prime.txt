@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Lupus Prime.mtf
+==================================================
+
+2	Unit Killed
+3	Lose non-weapon specials
+4	Weapon 1-1-0
+5	Mobility
+6	Ammo explosion
+7	None
+8	Engine
+9	Weapon 1-2-2
+10	None
+11	Weapon 1-1-0
+12	Weapon 1-2-2

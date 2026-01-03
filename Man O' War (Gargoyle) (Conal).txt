@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Man O' War (Gargoyle) (Conal).mtf
+==================================================
+
+2	Unit Killed
+3	Unit Killed (Engine)
+4	Ammo explosion
+5	FCS
+6	Mobility
+7	Engine
+8	None
+9	Engine
+10	Weapon 2-2-2
+11	Weapon 1-1-0
+12	Lose non-weapon specials
+
+Note: Mech has XL Engine. Structure pips required: 6

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Longbow LGB-10C.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	ISERMediumLaser (R)
+4	Mobility
+5	Engine
+6	Ammo explosion
+7	Weapon 1-2-2
+8	None
+9	Weapon 1-2-2
+10	FCS
+11	Weapon 0-1-1
+12	Unit Killed

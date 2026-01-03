@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Mantis SA-MN.mtf
+==================================================
+
+2	Engine
+3	Engine
+4	Unit Killed (Engine)
+5	Mobility
+6	None
+7	ISClaw
+8	Engine
+9	Engine
+10	Engine
+11	Engine
+12	Engine
+
+Note: Mech has XL Engine. Structure pips required: 3

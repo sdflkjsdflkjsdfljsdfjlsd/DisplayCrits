@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Locust IIC.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	None
+5	Mobility
+6	Engine
+7	Mobility
+8	None
+9	Engine
+10	None
+11	None
+12	Weapon 1-1-0

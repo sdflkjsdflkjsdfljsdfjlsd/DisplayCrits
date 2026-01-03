@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Kraken (Bane) 3.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Unit Killed
+4	Mobility
+5	Weapon 1-1-1
+6	None
+7	Ammo explosion
+8	Engine
+9	Ammo explosion
+10	Engine
+11	FCS
+12	None
+
+Note: Mech has XL Engine. Structure pips required: 8

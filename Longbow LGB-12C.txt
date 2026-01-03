@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Longbow LGB-12C.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	Ammo explosion
+5	None
+6	Engine
+7	Weapon 1-2-2
+8	Weapon 1-2-2
+9	Mobility
+10	Engine
+11	Weapon 1-1-1
+12	Unit Killed (Engine)
+
+Note: Mech has XL Engine. Structure pips required: 7

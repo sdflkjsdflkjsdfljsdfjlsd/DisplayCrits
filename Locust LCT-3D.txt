@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Locust LCT-3D.mtf
+==================================================
+
+2	Ammo explosion
+3	Engine
+4	Mobility
+5	None
+6	Engine
+7	Mobility
+8	Weapon 0-1-1
+9	Mobility
+10	Mobility
+11	Weapon 0-1-1
+12	Unit Killed

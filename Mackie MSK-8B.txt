@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Mackie MSK-8B.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Unit Killed
+4	FCS
+5	Mobility
+6	Ammo explosion
+7	Engine
+8	None
+9	None
+10	Weapon 1-1-1
+11	Weapon 2-2-0
+12	Weapon 1-1-0

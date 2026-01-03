@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Koshi (Mist Lynx) H.mtf
+==================================================
+
+2	FCS
+3	Weapon 1-0-0
+4	Lose non-weapon specials
+5	Mobility
+6	Weapon 1-1-0
+7	Engine
+8	Ammo explosion
+9	Engine
+10	None
+11	Weapon 1-1-0
+12	Unit Killed (Engine)
+
+Note: Mech has XL Engine. Structure pips required: 2

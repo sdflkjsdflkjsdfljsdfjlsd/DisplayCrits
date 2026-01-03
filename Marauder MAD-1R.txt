@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Marauder MAD-1R.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Weapon 1-1-1
+4	Weapon 1-1-0
+5	None
+6	Engine
+7	Mobility
+8	Weapon 1-1-1
+9	FCS
+10	Ammo explosion
+11	Engine
+12	Unit Killed

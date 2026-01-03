@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Masakari (Warhawk) C.mtf
+==================================================
+
+2	Unit Killed
+3	Unit Killed (Engine)
+4	Mobility
+5	None
+6	FCS
+7	Engine
+8	None
+9	Engine
+10	FCS
+11	Weapon 1-1-1
+12	Weapon 2-2-2
+
+Note: Mech has XL Engine. Structure pips required: 7

@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Linebacker D.mtf
+==================================================
+
+2	Unit Killed
+3	None
+4	Weapon 1-1-0
+5	Mobility
+6	Weapon 1-1-0
+7	Ammo explosion
+8	Engine
+9	Engine
+10	Engine
+11	FCS
+12	Unit Killed (Engine)
+
+Note: Mech has XL Engine. Structure pips required: 5

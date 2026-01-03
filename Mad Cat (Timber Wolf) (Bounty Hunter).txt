@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Mad Cat (Timber Wolf) (Bounty Hunter).mtf
+==================================================
+
+2	Unit Killed
+3	Lose non-weapon specials
+4	Weapon 1-1-1
+5	FCS
+6	FCS
+7	Engine
+8	Weapon 1-1-0
+9	Engine
+10	Mobility
+11	Unit Killed (Engine)
+12	None
+
+Note: Mech has XL Engine. Structure pips required: 6
