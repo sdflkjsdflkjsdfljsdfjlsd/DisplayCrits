@@ -19,7 +19,7 @@ def display_mech_content(filename):
 # --- Streamlit UI ---
 st.set_page_config(page_title="Mech Database", page_icon="🤖")
 
-st.title("Mech critical hits table search")
+st.title("Alpha Strike Custom Crit Tables")
 st.write("Enter a name or model (e.g., 'Crab' or 'KGC').")
 
 # 1. User Input
