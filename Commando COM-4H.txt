@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Commando COM-4H.mtf
+==================================================
+
+2	FCS
+3	None
+4	ISRocketLauncher15
+5	Engine
+6	Mobility
+7	ISRocketLauncher15
+8	ISRocketLauncher15
+9	ISRocketLauncher15
+10	ISRocketLauncher15
+11	Weapon 1-1-0
+12	ISRocketLauncher15

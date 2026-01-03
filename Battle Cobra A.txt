@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Battle Cobra A.mtf
+==================================================
+
+2	None
+3	FCS
+4	Engine
+5	Weapon 1-1-0
+6	Engine
+7	Weapon 1-1-0
+8	Mobility
+9	Weapon 1-1-0
+10	Weapon 1-1-0
+11	Mobility
+12	Unit Killed

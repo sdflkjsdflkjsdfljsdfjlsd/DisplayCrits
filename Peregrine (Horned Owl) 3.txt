@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Peregrine (Horned Owl) 3.mtf
+==================================================
+
+2	Weapon 2-2-2
+3	Clan Light Machine Gun Ammo - Half
+4	CLLightMG
+5	FCS
+6	CLLightMG
+7	None
+8	Mobility
+9	Engine
+10	CLLightMG
+11	CLLightMG
+12	None

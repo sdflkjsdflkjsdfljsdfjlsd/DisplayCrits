@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Highlander HGN-732 (Jorgensson).mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Unit Killed
+4	Ammo explosion
+5	Mobility
+6	Engine
+7	None
+8	Weapon 1-2-2
+9	None
+10	Weapon 1-1-1
+11	Engine
+12	FCS

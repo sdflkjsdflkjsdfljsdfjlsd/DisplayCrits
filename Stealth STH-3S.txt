@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Stealth STH-3S.mtf
+==================================================
+
+2	Lose non-weapon specials
+3	Unit Killed (Engine)
+4	Mobility
+5	None
+6	Stealth
+7	Engine
+8	Engine
+9	Stealth
+10	Unit Killed (Engine)
+11	Unit Killed
+12	Weapon 1-1-1
+
+Note: Mech has XL Engine. Structure pips required: 4

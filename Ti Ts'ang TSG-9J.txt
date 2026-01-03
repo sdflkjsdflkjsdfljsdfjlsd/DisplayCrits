@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Ti Ts'ang TSG-9J.mtf
+==================================================
+
+2	Weapon 1-1-1
+3	FCS
+4	Mobility
+5	Unit Killed (Engine)
+6	None
+7	Engine
+8	Engine
+9	Engine
+10	Lose MEL special
+11	Weapon 1-1-0
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 5

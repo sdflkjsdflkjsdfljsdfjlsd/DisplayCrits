@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Javelin JVN-11B.mtf
+==================================================
+
+2	Engine
+3	Mobility
+4	Weapon 1-1-0
+5	Mobility
+6	None
+7	Lose non-weapon specials
+8	Engine
+9	Ammo explosion
+10	None
+11	None
+12	Ammo explosion

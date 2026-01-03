@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Crusader CRD-3R (Crael).mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	Weapon 1-1-0
+5	Engine
+6	ISClaw
+7	Weapon 1-1-0
+8	ISClaw
+9	Mobility
+10	ISClaw
+11	Ammo explosion
+12	None

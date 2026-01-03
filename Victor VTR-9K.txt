@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Victor VTR-9K.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Weapon 1-2-2
+4	Ammo explosion
+5	FCS
+6	Engine
+7	None
+8	Mobility
+9	None
+10	Weapon 1-1-0
+11	Engine
+12	Unit Killed

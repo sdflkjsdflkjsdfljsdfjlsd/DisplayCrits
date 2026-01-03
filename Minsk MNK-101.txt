@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Minsk MNK-101.mtf
+==================================================
+
+2	Unit Killed
+3	Lose non-weapon specials
+4	Weapon 1-2-2
+5	Engine
+6	Weapon 1-1-0
+7	Ammo explosion
+8	None
+9	Ammo explosion
+10	Mobility
+11	FCS
+12	Weapon 1-1-1

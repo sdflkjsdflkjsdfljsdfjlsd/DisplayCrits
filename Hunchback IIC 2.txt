@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Hunchback IIC 2.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	Unit Killed (Engine)
+4	None
+5	Mobility
+6	Engine
+7	None
+8	Engine
+9	Weapon 2-2-0
+10	Engine
+11	Engine
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 4

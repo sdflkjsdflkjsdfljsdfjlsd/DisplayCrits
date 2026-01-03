@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Blackjack BJ2-OD.mtf
+==================================================
+
+2	FCS
+3	Mobility
+4	Unit Killed (Engine)
+5	Weapon 1-1-1
+6	None
+7	Engine
+8	Engine
+9	Weapon 1-1-0
+10	Mobility
+11	Engine
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 4

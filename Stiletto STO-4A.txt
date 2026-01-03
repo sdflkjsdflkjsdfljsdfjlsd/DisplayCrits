@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Stiletto STO-4A.mtf
+==================================================
+
+2	Lose non-weapon specials
+3	Lose non-weapon specials
+4	Engine
+5	Ammo explosion
+6	None
+7	Engine
+8	Mobility
+9	Engine
+10	Engine
+11	Unit Killed (Engine)
+12	Engine

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Hoplite HOP-4B.mtf
+==================================================
+
+2	Unit Killed
+3	Ammo explosion
+4	FCS
+5	Engine
+6	Mobility
+7	None
+8	Weapon 1-1-1
+9	Weapon 1-1-1
+10	Engine
+11	Weapon 1-1-1
+12	Weapon 1-1-1

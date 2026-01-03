@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Wyvern WVE-9N.mtf
+==================================================
+
+2	Weapon 0-1-1
+3	FCS
+4	None
+5	Engine
+6	Weapon 1-1-0
+7	None
+8	Ammo explosion
+9	Mobility
+10	None
+11	Weapon 1-1-0
+12	Unit Killed

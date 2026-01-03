@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Wasp WSP-1L.mtf
+==================================================
+
+2	Unit Killed
+3	None
+4	Weapon 1-1-0
+5	Ammo explosion
+6	None
+7	Engine
+8	Mobility
+9	Mobility
+10	None
+11	Mobility
+12	Ammo explosion

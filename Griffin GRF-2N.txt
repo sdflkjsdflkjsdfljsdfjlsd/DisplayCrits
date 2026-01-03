@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Griffin GRF-2N.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	Weapon 1-1-1
+5	Weapon 1-1-0
+6	None
+7	Engine
+8	Mobility
+9	Ammo explosion
+10	None
+11	Lose non-weapon specials
+12	Engine
