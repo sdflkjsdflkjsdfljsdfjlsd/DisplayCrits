@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Dragon Fire DGR-6FC2 (Gregory).mtf
+==================================================
+
+2	Unit Killed
+3	ISPlasmaRifleAmmo
+4	Weapon 2-2-1
+5	None
+6	Light PPC
+7	Engine
+8	Engine
+9	Mobility
+10	ISPlasmaRifle
+11	ISC3iUnit
+12	Unit Killed (Engine)

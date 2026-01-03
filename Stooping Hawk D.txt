@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Stooping Hawk D.mtf
+==================================================
+
+2	FCS
+3	Engine
+4	None
+5	Engine
+6	Mobility
+7	Weapon 1-1-0
+8	None
+9	Weapon 1-1-0
+10	Weapon 1-1-0
+11	FCS
+12	Unit Killed

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Blood Kite 2.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	FCS
+4	Weapon 1-1-1
+5	Mobility
+6	Engine
+7	None
+8	CLLRM15 Ammo (Clan) Artemis-capable
+9	None
+10	Weapon 2-2-2
+11	CLLRM15 Ammo (Clan) Artemis-capable
+12	Unit Killed

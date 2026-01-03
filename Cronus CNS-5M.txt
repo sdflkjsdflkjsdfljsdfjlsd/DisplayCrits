@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Cronus CNS-5M.mtf
+==================================================
+
+2	Lose non-weapon specials
+3	Weapon 1-1-0
+4	Weapon 1-1-1
+5	Engine
+6	Mobility
+7	Engine
+8	None
+9	None
+10	FCS
+11	Ammo explosion
+12	Unit Killed

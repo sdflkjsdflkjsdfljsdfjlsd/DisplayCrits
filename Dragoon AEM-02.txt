@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Dragoon AEM-02.mtf
+==================================================
+
+2	None
+3	Weapon 1-1-1
+4	Ammo explosion
+5	Mobility
+6	Engine
+7	Engine
+8	Engine
+9	Weapon 1-1-0
+10	Weapon 2-2-0
+11	FCS
+12	Unit Killed

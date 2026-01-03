@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Ostroc OSR-4L.mtf
+==================================================
+
+2	Unit Killed
+3	Weapon 1-1-0
+4	Weapon 1-1-1
+5	Engine
+6	None
+7	IS Stealth
+8	Mobility
+9	IS Stealth
+10	Engine
+11	Lose non-weapon specials
+12	Unit Killed (Engine)

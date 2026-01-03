@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Hatamoto-Hi HTM-CM.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Weapon 1-1-0
+4	None
+5	Mobility
+6	Weapon 1-1-1
+7	Engine
+8	ISC3MasterComputer
+9	Weapon 1-1-1
+10	ISC3MasterComputer
+11	FCS
+12	Unit Killed

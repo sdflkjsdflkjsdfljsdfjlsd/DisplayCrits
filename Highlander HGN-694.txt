@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Highlander HGN-694.mtf
+==================================================
+
+2	FCS
+3	Weapon 1-2-2
+4	Weapon 2-2-1
+5	Mobility
+6	Engine
+7	None
+8	Engine
+9	Engine
+10	Unit Killed (Engine)
+11	Weapon 1-1-0
+12	Unit Killed

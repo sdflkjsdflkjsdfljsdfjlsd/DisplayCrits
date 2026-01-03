@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Marauder IIC 3.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Weapon 3-2-1
+4	Weapon 2-2-2
+5	Ammo explosion
+6	Engine
+7	None
+8	Mobility
+9	None
+10	FCS
+11	Engine
+12	Unit Killed

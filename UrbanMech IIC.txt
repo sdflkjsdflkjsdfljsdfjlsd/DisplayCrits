@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: UrbanMech IIC.mtf
+==================================================
+
+2	FCS
+3	Mobility
+4	None
+5	Weapon 2-2-2
+6	Mobility
+7	None
+8	Ammo explosion
+9	Engine
+10	Engine
+11	Ammo explosion
+12	Unit Killed

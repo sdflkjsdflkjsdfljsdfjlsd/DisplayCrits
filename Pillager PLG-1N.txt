@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Pillager PLG-1N.mtf
+==================================================
+
+2	FCS
+3	Unit Killed
+4	None
+5	Mobility
+6	Weapon 2-2-0
+7	None
+8	Engine
+9	Ammo explosion
+10	Ammo explosion
+11	Weapon 1-1-0
+12	Engine
