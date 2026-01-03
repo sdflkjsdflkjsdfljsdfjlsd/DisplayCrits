@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Fafnir FNR-5.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Lose non-weapon specials
+4	Weapon 1-1-0
+5	Weapon 2-2-1
+6	None
+7	Engine
+8	Mobility
+9	Engine
+10	None
+11	Unit Killed
+12	FCS

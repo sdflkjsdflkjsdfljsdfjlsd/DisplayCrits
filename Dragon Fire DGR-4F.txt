@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Dragon Fire DGR-4F.mtf
+==================================================
+
+2	Weapon 1-1-1
+3	Lose non-weapon specials
+4	Unit Killed (Engine)
+5	Mobility
+6	Weapon 1-2-2
+7	Engine
+8	None
+9	Weapon 1-1-0
+10	FCS
+11	Ammo explosion
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 6

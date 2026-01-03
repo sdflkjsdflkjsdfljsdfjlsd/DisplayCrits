@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Enfield END-6J-EC.mtf
+==================================================
+
+2	Ammo explosion
+3	Unit Killed (Engine)
+4	Mobility
+5	Engine
+6	Engine
+7	CLUltraAC10Prototype
+8	None
+9	CLUltraAC10Prototype
+10	None
+11	Improved Large Laser
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 4

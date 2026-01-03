@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Falconer FLC-8R.mtf
+==================================================
+
+2	Weapon 1-2-2
+3	Weapon 1-1-0
+4	Unit Killed (Engine)
+5	Mobility
+6	Engine
+7	Engine
+8	Engine
+9	None
+10	FCS
+11	Weapon 1-1-1
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 6

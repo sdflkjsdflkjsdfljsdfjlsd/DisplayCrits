@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Devastator DVS-1D.mtf
+==================================================
+
+2	None
+3	Unit Killed
+4	FCS
+5	Mobility
+6	Engine
+7	Weapon 1-1-0
+8	Ammo explosion
+9	Weapon 1-1-0
+10	Ammo explosion
+11	Weapon 1-1-0
+12	Engine

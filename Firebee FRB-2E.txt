@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Firebee FRB-2E.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	Weapon 1-1-0
+5	Engine
+6	Ammo explosion
+7	None
+8	Mobility
+9	None
+10	Engine
+11	Mobility
+12	Ammo explosion

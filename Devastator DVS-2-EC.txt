@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Devastator DVS-2-EC.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	CLImpGaussAmmo
+4	Mobility
+5	Engine
+6	None
+7	Engine
+8	Improved Gauss Rifle
+9	Improved Gauss Rifle
+10	CLWERPPC
+11	Unit Killed (Engine)
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 8

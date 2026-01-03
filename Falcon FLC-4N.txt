@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Falcon FLC-4N.mtf
+==================================================
+
+2	Ammo explosion
+3	FCS
+4	Mobility
+5	Engine
+6	Machine Gun (R)
+7	None
+8	Mobility
+9	None
+10	Engine
+11	Weapon 1-1-0
+12	Unit Killed

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Flea FLE-15.mtf
+==================================================
+
+2	Lose HT special
+3	Unit Killed
+4	Engine
+5	Engine
+6	Weapon 1-1-0
+7	Mobility
+8	None
+9	Mobility
+10	None
+11	FCS
+12	Ammo explosion

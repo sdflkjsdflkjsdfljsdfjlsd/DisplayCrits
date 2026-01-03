@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Enforcer III ENF-6Ma.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	Ammo explosion
+4	FCS
+5	None
+6	Engine
+7	Engine
+8	Weapon 1-1-0
+9	Mobility
+10	Unit Killed (Engine)
+11	Weapon 1-1-1
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 4

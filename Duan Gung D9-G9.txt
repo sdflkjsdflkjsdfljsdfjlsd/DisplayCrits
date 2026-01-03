@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Duan Gung D9-G9.mtf
+==================================================
+
+2	Ammo explosion
+3	Weapon 1-1-0
+4	Unit Killed (Engine)
+5	Engine
+6	None
+7	Engine
+8	Mobility
+9	Engine
+10	Engine
+11	Engine
+12	Weapon 0-1-1
+
+Note: Mech has XL Engine. Structure pips required: 2

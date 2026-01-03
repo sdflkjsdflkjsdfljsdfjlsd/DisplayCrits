@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Fire Falcon H.mtf
+==================================================
+
+2	FCS
+3	Engine
+4	None
+5	Mobility
+6	Engine
+7	Weapon 1-1-0
+8	Weapon 1-1-0
+9	Engine
+10	Weapon 1-1-0
+11	Engine
+12	Unit Killed (Engine)
+
+Note: Mech has XL Engine. Structure pips required: 2

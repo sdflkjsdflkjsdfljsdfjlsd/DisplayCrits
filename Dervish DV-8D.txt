@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Dervish DV-8D.mtf
+==================================================
+
+2	Unit Killed
+3	Weapon 1-1-1
+4	Mobility
+5	Weapon 1-1-0
+6	Ammo explosion
+7	Engine
+8	Engine
+9	FCS
+10	None
+11	Engine
+12	Weapon 1-1-1

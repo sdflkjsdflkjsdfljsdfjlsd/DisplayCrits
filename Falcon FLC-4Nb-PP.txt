@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Falcon FLC-4Nb-PP.mtf
+==================================================
+
+2	FCS
+3	Weapon 1-1-0
+4	None
+5	Engine
+6	Weapon 1-1-1
+7	None
+8	Mobility
+9	Weapon 1-1-1
+10	Engine
+11	Mobility
+12	Mobility

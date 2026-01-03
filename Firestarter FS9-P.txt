@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Firestarter FS9-P.mtf
+==================================================
+
+2	Ammo explosion
+3	Lose HT special
+4	Weapon 1-1-0
+5	Lose HT special
+6	None
+7	Engine
+8	Mobility
+9	Mobility
+10	None
+11	None
+12	Engine

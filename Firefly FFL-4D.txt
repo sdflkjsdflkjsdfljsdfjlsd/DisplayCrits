@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Firefly FFL-4D.mtf
+==================================================
+
+2	Weapon 0-1-1
+3	Weapon 1-1-0
+4	Lose non-weapon specials
+5	Ammo explosion
+6	Engine
+7	None
+8	Engine
+9	Mobility
+10	Engine
+11	Engine
+12	Unit Killed (Engine)

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Galahad GLH-2D.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	FCS
+4	Weapon 1-2-2
+5	Engine
+6	Engine
+7	None
+8	Mobility
+9	None
+10	Engine
+11	Mobility
+12	Unit Killed

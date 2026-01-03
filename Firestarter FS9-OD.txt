@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Firestarter FS9-OD.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	Weapon 0-1-1
+4	Unit Killed (Engine)
+5	None
+6	FCS
+7	Engine
+8	Ammo explosion
+9	Mobility
+10	Weapon 1-1-1
+11	Lose non-weapon specials
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 4

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Eagle EGL-1M.mtf
+==================================================
+
+2	FCS
+3	Lose non-weapon specials
+4	Lose non-weapon specials
+5	Weapon 1-1-1
+6	Engine
+7	None
+8	Mobility
+9	Ammo explosion
+10	Mobility
+11	None
+12	Engine

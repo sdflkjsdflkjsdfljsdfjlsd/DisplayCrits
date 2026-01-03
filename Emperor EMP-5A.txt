@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Emperor EMP-5A.mtf
+==================================================
+
+2	Engine
+3	Unit Killed
+4	Weapon 1-1-1
+5	Mobility
+6	Ammo explosion
+7	None
+8	Weapon 1-1-0
+9	Engine
+10	FCS
+11	None
+12	Weapon 1-1-0

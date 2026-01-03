@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Firefly FFL-3A.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	Lose non-weapon specials
+4	Mobility
+5	Engine
+6	Engine
+7	None
+8	Engine
+9	Engine
+10	Unit Killed (Engine)
+11	Ammo explosion
+12	Weapon 0-1-1
+
+Note: Mech has XL Engine. Structure pips required: 3
