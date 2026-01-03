@@ -20,10 +20,10 @@ def load_mech_data(mech_name):
 st.set_page_config(page_title="Mech Critical Table Lookup")
 
 st.title("🛡️ Mech Critical Table Lookup")
-st.markdown("Enter the name of a Mech to retrieve its Alpha Strike Critical Table simulation.")
+st.markdown("Enter the name of a Mech to retrieve its custom Alpha Strike critical hits table.")
 
 # User Input
-mech_input = st.text_input("Mech Name (e.g., King Crab KGC-005)", placeholder="Type name here...")
+mech_input = st.text_input("Mech Name", placeholder="Type name here...")
 
 if mech_input:
     content = load_mech_data(mech_input)
