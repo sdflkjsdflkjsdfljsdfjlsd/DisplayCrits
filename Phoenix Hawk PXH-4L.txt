@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Phoenix Hawk PXH-4L.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	Weapon 1-1-1
+5	Mobility
+6	None
+7	IS Stealth
+8	IS Stealth
+9	Engine
+10	Weapon 1-1-0
+11	Lose non-weapon specials
+12	Ammo explosion

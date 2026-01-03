@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Phoenix Hawk PXH-3D (Jiemin).mtf
+==================================================
+
+2	Unit Killed
+3	ISMediumXPulseLaser
+4	Mobility
+5	ISLargeXPulseLaser
+6	None
+7	Engine
+8	Engine
+9	Engine
+10	Unit Killed (Engine)
+11	None
+12	Engine
+
+Note: Mech has XL Engine. Structure pips required: 4

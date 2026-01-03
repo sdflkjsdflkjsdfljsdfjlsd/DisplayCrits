@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Panther PNT-10KA.mtf
+==================================================
+
+2	FCS
+3	Mobility
+4	Ammo explosion
+5	Mobility
+6	Engine
+7	None
+8	Weapon 1-1-1
+9	Weapon 1-1-1
+10	None
+11	None
+12	None

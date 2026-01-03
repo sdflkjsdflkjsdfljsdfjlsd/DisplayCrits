@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Pulverizer PUL-3R.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Weapon 0-1-1
+4	Unit Killed
+5	Mobility
+6	Engine
+7	None
+8	CLWERPPC
+9	Improved Large Laser
+10	Lose non-weapon specials
+11	Ammo explosion
+12	FCS

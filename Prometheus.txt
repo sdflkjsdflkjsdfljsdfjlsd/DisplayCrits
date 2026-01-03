@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Prometheus.mtf
+==================================================
+
+2	Unit Killed
+3	CLLRM15 Ammo
+4	Mobility
+5	Weapon 1-1-0
+6	Weapon 1-1-1
+7	Engine
+8	Engine
+9	FCS
+10	None
+11	Weapon 2-2-2
+12	Ammo explosion

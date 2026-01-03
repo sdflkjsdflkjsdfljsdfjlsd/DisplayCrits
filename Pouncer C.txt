@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Pouncer C.mtf
+==================================================
+
+2	FCS
+3	Weapon 2-2-2
+4	Ammo explosion
+5	Weapon 1-1-0
+6	Engine
+7	None
+8	Mobility
+9	Engine
+10	Engine
+11	Engine
+12	Unit Killed (Engine)
+
+Note: Mech has XL Engine. Structure pips required: 3

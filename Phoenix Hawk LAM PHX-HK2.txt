@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Phoenix Hawk LAM PHX-HK2.mtf
+==================================================
+
+2	Unit Killed
+3	Ammo explosion
+4	FCS
+5	Weapon 1-1-0
+6	Engine
+7	Mobility
+8	None
+9	Landing Gear
+10	Avionics
+11	None
+12	Weapon 1-1-0

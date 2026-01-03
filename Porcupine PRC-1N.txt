@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Porcupine PRC-1N.mtf
+==================================================
+
+2	None
+3	Engine
+4	Unit Killed (Engine)
+5	Mobility
+6	Spikes
+7	Engine
+8	Engine
+9	Engine
+10	Weapon 1-1-0
+11	Engine
+12	Spikes
+
+Note: Mech has XL Engine. Structure pips required: 2

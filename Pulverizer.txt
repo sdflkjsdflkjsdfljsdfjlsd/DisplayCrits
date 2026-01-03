@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Pulverizer.mtf
+==================================================
+
+2	Lose non-weapon specials
+3	Weapon 2-2-2
+4	Ammo explosion
+5	FCS
+6	None
+7	Engine
+8	Weapon 1-1-1
+9	Mobility
+10	None
+11	Unit Killed
+12	Unit Killed (Engine)

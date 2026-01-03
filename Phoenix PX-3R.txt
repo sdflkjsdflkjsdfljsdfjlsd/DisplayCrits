@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Phoenix PX-3R.mtf
+==================================================
+
+2	FCS
+3	Mobility
+4	Weapon 1-1-1
+5	Mobility
+6	Engine
+7	None
+8	Ammo explosion
+9	None
+10	Engine
+11	Weapon 1-1-1
+12	Unit Killed

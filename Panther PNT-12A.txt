@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Panther PNT-12A.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	Mobility
+4	Weapon 1-1-1
+5	Mobility
+6	FCS
+7	None
+8	Engine
+9	None
+10	Ammo explosion
+11	FCS
+12	Unit Killed

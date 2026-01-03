@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Rabid Coyote.mtf
+==================================================
+
+2	Unit Killed
+3	CLATM12 ER Ammo
+4	CLATM12 Ammo
+5	Weapon 3-2-1
+6	Mobility
+7	Engine
+8	Weapon 1-1-0
+9	None
+10	FCS
+11	CLATM12 HE Ammo
+12	Unit Killed (Engine)

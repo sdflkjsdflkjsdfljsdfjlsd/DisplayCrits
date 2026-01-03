@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Raptor RTX1-O.mtf
+==================================================
+
+2	FCS
+3	None
+4	Weapon 1-1-0
+5	Unit Killed (Engine)
+6	Engine
+7	Mobility
+8	Engine
+9	Engine
+10	Ammo explosion
+11	Weapon 0-1-1
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 2

@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Phantom B.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Lose non-weapon specials
+4	Weapon 1-1-0
+5	None
+6	Ammo explosion
+7	Engine
+8	Mobility
+9	Engine
+10	Engine
+11	Engine
+12	Engine
+
+Note: Mech has XL Engine. Structure pips required: 3
