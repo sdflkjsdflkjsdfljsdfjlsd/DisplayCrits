@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Gladiator (Executioner) A.mtf
+==================================================
+
+2	Ammo explosion
+3	Weapon 1-1-1
+4	FCS
+5	Weapon 1-1-0
+6	None
+7	Engine
+8	Mobility
+9	Engine
+10	Ammo explosion
+11	Unit Killed (Engine)
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 8

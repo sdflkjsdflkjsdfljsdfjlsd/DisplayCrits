@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Goshawk (Vapor Eagle) 2.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Weapon 2-2-2
+4	Mobility
+5	None
+6	FCS
+7	Engine
+8	Ammo explosion
+9	Engine
+10	Weapon 1-1-0
+11	None
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 5

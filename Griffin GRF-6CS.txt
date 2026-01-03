@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Griffin GRF-6CS.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	Lose non-weapon specials
+4	Ammo explosion
+5	Mobility
+6	None
+7	Engine
+8	ISC3iUnit
+9	Unit Killed (Engine)
+10	Weapon 1-1-1
+11	FCS
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 5

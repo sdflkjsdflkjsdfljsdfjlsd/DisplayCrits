@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Grendel (Mongrel) C.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Lose non-weapon specials
+4	Engine
+5	Ammo explosion
+6	None
+7	Engine
+8	Weapon 1-1-0
+9	Mobility
+10	Engine
+11	Unit Killed
+12	FCS
+
+Note: Mech has XL Engine. Structure pips required: 4

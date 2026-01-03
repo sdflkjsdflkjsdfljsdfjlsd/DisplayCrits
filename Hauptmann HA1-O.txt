@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Hauptmann HA1-O.mtf
+==================================================
+
+2	Lose non-weapon specials
+3	FCS
+4	Weapon 1-1-1
+5	Mobility
+6	None
+7	Engine
+8	Ammo explosion
+9	Weapon 1-1-0
+10	None
+11	Unit Killed
+12	Unit Killed (Engine)

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Ha Otoko.mtf
+==================================================
+
+2	FCS
+3	None
+4	Mobility
+5	Engine
+6	Weapon 1-1-1
+7	Ammo explosion
+8	None
+9	Weapon 1-2-2
+10	Ammo explosion
+11	Ammo explosion
+12	Unit Killed

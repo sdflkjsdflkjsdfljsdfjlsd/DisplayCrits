@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Hellfire 2.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	CLATM6 Ammo
+4	Weapon 2-2-0
+5	None
+6	Mobility
+7	Engine
+8	Weapon 1-1-0
+9	CLATM6 ER Ammo
+10	Weapon 2-1-0
+11	FCS
+12	CLATM6 HE Ammo
+
+Note: Mech has XL Engine. Structure pips required: 5

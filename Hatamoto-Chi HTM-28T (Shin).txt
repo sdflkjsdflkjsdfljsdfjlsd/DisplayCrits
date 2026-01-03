@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Hatamoto-Chi HTM-28T (Shin).mtf
+==================================================
+
+2	FCS
+3	Unit Killed (Engine)
+4	Unit Killed
+5	None
+6	Mobility
+7	Engine
+8	Weapon 1-1-0
+9	None
+10	Lose MEL special
+11	Weapon 1-2-2
+12	Lose non-weapon specials

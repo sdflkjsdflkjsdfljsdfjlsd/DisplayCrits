@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Gladiator GLD-4R.mtf
+==================================================
+
+2	Unit Killed
+3	Weapon 1-1-1
+4	FCS
+5	None
+6	Engine
+7	Mobility
+8	Weapon 1-1-0
+9	None
+10	Ammo explosion
+11	Weapon 1-1-0
+12	Weapon 1-1-1

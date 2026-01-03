@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Grim Reaper GRM-R-PR29.mtf
+==================================================
+
+2	Lose non-weapon specials
+3	Unit Killed (Engine)
+4	Ammo explosion
+5	FCS
+6	Weapon 1-1-0
+7	Engine
+8	None
+9	Weapon 1-2-2
+10	Mobility
+11	Weapon 1-1-1
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 5

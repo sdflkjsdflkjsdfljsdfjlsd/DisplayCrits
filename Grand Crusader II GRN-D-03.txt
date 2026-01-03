@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Grand Crusader II GRN-D-03.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	None
+4	Ammo explosion
+5	Weapon 1-1-1
+6	Weapon 1-1-0
+7	Engine
+8	Engine
+9	FCS
+10	Mobility
+11	Unit Killed
+12	ISC3iUnit

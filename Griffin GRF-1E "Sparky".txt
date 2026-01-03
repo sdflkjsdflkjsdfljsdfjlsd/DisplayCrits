@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Griffin GRF-1E "Sparky".mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	FCS
+4	Weapon 1-1-1
+5	None
+6	Engine
+7	Mobility
+8	Weapon 1-1-0
+9	Weapon 1-1-1
+10	None
+11	Engine
+12	Unit Killed

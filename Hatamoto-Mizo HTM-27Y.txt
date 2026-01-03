@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Hatamoto-Mizo HTM-27Y.mtf
+==================================================
+
+2	Unit Killed
+3	Engine
+4	FCS
+5	Mobility
+6	None
+7	Weapon 1-1-1
+8	Engine
+9	Weapon 1-1-1
+10	None
+11	Mobility
+12	Unit Killed (Engine)

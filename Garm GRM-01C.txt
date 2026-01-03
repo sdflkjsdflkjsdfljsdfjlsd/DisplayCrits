@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Garm GRM-01C.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	Engine
+4	None
+5	Weapon 1-2-2
+6	Engine
+7	Mobility
+8	None
+9	Ammo explosion
+10	None
+11	Ammo explosion
+12	Mobility

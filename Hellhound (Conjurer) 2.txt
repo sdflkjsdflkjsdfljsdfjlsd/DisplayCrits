@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Hellhound (Conjurer) 2.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Weapon 2-2-1
+4	Mobility
+5	Weapon 1-1-0
+6	None
+7	Engine
+8	Ammo explosion
+9	Engine
+10	Ammo explosion
+11	FCS
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 4

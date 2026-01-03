@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Hauptmann HA1-OB.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	FCS
+4	Weapon 3-3-0
+5	Weapon 1-1-1
+6	Mobility
+7	Engine
+8	None
+9	Ammo explosion
+10	None
+11	Weapon 1-1-0
+12	Unit Killed

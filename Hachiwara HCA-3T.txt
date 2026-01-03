@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Hachiwara HCA-3T.mtf
+==================================================
+
+2	FCS
+3	Weapon 2-2-2
+4	Unit Killed (Engine)
+5	ISMPod
+6	ISLargeVibroblade
+7	Engine
+8	Weapon 1-1-0
+9	Mobility
+10	None
+11	Ammo explosion
+12	Supercharger
+
+Note: Mech has XL Engine. Structure pips required: 6
