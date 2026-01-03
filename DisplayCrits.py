@@ -19,7 +19,7 @@ def display_mech_content(filename):
 # --- Streamlit UI ---
 st.set_page_config(page_title="Mech Database", page_icon="🤖")
 
-st.title("🛡️ Advanced Mech Search")
+st.title("Mech critical hits table search")
 st.write("Enter a name or model (e.g., 'Crab' or 'KGC').")
 
 # 1. User Input
