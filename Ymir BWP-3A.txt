@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Ymir BWP-3A.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Weapon 0-1-1
+4	Ammo explosion
+5	None
+6	FCS
+7	Engine
+8	Mobility
+9	Weapon 1-1-0
+10	Weapon 1-1-0
+11	None
+12	Unit Killed

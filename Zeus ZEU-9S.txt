@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Zeus ZEU-9S.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Unit Killed
+4	Engine
+5	FCS
+6	Engine
+7	Mobility
+8	Weapon 1-1-1
+9	None
+10	None
+11	Ammo explosion
+12	Weapon 1-1-0
