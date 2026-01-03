@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Mercury MCY-97.mtf
+==================================================
+
+2	Unit Killed
+3	Engine
+4	Weapon 1-1-0
+5	None
+6	Lose non-weapon specials
+7	Engine
+8	Mobility
+9	Mobility
+10	Mobility
+11	Mobility
+12	Mobility

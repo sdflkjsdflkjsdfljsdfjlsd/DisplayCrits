@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Naja.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	FCS
+4	Ammo explosion
+5	None
+6	Improved SRM 6
+7	Engine
+8	Weapon 1-1-0
+9	CLImpAmmoSRM6
+10	Mobility
+11	Weapon 1-2-2
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 5

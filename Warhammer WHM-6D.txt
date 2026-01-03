@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Warhammer WHM-6D.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Weapon 1-1-0
+4	FCS
+5	Mobility
+6	Engine
+7	Weapon 1-1-1
+8	None
+9	Weapon 1-1-1
+10	None
+11	Engine
+12	Unit Killed

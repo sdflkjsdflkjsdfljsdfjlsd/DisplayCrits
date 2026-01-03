@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Gallowglas GAL-3GLS.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	Weapon 1-1-1
+4	Unit Killed (Engine)
+5	None
+6	FCS
+7	Engine
+8	Engine
+9	Mobility
+10	FCS
+11	Weapon 1-2-2
+12	Unit Killed

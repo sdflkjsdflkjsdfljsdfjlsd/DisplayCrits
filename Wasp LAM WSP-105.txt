@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Wasp LAM WSP-105.mtf
+==================================================
+
+2	Landing Gear
+3	Weapon 1-1-0
+4	Ammo explosion
+5	Engine
+6	Avionics
+7	None
+8	Landing Gear
+9	Mobility
+10	None
+11	Mobility
+12	Engine

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Brigand LDT-X2.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	Weapon 1-1-0
+4	ISRocketLauncher15
+5	Engine
+6	None
+7	ISRocketLauncher15
+8	Mobility
+9	ISRocketLauncher15
+10	ISRocketLauncher15
+11	ISRocketLauncher15
+12	ISRocketLauncher15

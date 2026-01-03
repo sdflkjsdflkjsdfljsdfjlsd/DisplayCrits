@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Warhammer WHM-4L.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	Weapon 1-1-1
+5	Mobility
+6	Engine
+7	Stealth
+8	None
+9	Weapon 1-1-0
+10	Unit Killed (Engine)
+11	Ammo explosion
+12	Lose non-weapon specials
+
+Note: Mech has XL Engine. Structure pips required: 6

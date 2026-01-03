@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Titan TI-1A.mtf
+==================================================
+
+2	Engine
+3	Unit Killed
+4	FCS
+5	Weapon 1-1-1
+6	Ammo explosion
+7	Weapon 1-1-0
+8	None
+9	Engine
+10	Mobility
+11	Weapon 1-1-0
+12	None

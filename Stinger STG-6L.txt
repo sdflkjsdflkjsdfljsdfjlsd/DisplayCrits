@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Stinger STG-6L.mtf
+==================================================
+
+2	Lose non-weapon specials
+3	Weapon 1-1-0
+4	None
+5	IS Stealth
+6	Mobility
+7	IS Stealth
+8	IS Stealth
+9	IS Stealth
+10	Engine
+11	IS Stealth
+12	Weapon 1-1-0

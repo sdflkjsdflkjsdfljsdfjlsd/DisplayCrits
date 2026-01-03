@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Shogun C.mtf
+==================================================
+
+2	Weapon 2-2-2
+3	CLStreakSRM6 Ammo
+4	Weapon 1-1-0
+5	Weapon 1-2-2
+6	Engine
+7	None
+8	Mobility
+9	CLLRM20 Ammo (Clan) Artemis-capable
+10	None
+11	FCS
+12	Unit Killed

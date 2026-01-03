@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Huron Warrior HUR-WO-R4M.mtf
+==================================================
+
+2	Unit Killed
+3	Weapon 1-1-0
+4	None
+5	Unit Killed (Engine)
+6	Engine
+7	Engine
+8	Engine
+9	Mobility
+10	FCS
+11	Weapon 1-1-1
+12	Weapon 1-2-2
+
+Note: Mech has XL Engine. Structure pips required: 4

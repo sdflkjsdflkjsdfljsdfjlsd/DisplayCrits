@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Spartan SPT-N2.mtf
+==================================================
+
+2	Unit Killed
+3	Unit Killed (Engine)
+4	Weapon 1-1-0
+5	Ammo explosion
+6	None
+7	Engine
+8	Mobility
+9	Engine
+10	Lose non-weapon specials
+11	FCS
+12	Weapon 1-1-1
+
+Note: Mech has XL Engine. Structure pips required: 6

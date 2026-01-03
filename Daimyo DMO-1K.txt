@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Daimyo DMO-1K.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	Weapon 1-1-1
+5	Ammo explosion
+6	Mobility
+7	None
+8	Weapon 1-1-0
+9	Engine
+10	Engine
+11	Weapon 1-1-0
+12	FCS

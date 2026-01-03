@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Toyama TYM-1A.mtf
+==================================================
+
+2	Lose non-weapon specials
+3	Weapon 1-1-0
+4	None
+5	Mobility
+6	FCS
+7	Engine
+8	Unit Killed (Engine)
+9	Ammo explosion
+10	Weapon 1-2-2
+11	Weapon 1-1-1
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 6

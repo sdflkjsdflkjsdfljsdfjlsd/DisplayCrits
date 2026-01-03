@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Atlas II AS7-D-H (Kerensky).mtf
+==================================================
+
+2	Lose non-weapon specials
+3	Weapon 1-2-2
+4	Mobility
+5	None
+6	Weapon 1-1-0
+7	Ammo explosion
+8	Engine
+9	None
+10	FCS
+11	Weapon 1-1-1
+12	Unit Killed

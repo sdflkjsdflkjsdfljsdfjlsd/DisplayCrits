@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Razorback RZK-9T.mtf
+==================================================
+
+2	FCS
+3	Unit Killed (Engine)
+4	Weapon 1-1-1
+5	Weapon 1-1-0
+6	None
+7	Engine
+8	Mobility
+9	Engine
+10	Engine
+11	Engine
+12	Engine

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Hatchetman HCT-6S.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Lose MEL special
+4	Ammo explosion
+5	Mobility
+6	None
+7	Engine
+8	Engine
+9	Weapon 1-1-0
+10	Lose MEL special
+11	None
+12	Unit Killed

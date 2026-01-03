@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Copperhead CPR-HD-003.mtf
+==================================================
+
+2	Ammo explosion
+3	Weapon 1-1-0
+4	Mobility
+5	None
+6	Reflective
+7	Engine
+8	Engine
+9	Reflective
+10	Unit Killed (Engine)
+11	ISMediumXPulseLaser
+12	ISMagshotGR Ammo
+
+Note: Mech has XL Engine. Structure pips required: 3

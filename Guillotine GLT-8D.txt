@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Guillotine GLT-8D.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Ammo explosion
+4	Weapon 1-1-1
+5	None
+6	Weapon 1-1-0
+7	FCS
+8	Engine
+9	Mobility
+10	FCS
+11	None
+12	Unit Killed

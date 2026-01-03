@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: SuburbanMech UM-R100.mtf
+==================================================
+
+2	Unit Killed
+3	Mobility
+4	Weapon 1-1-0
+5	Weapon 1-1-1
+6	Engine
+7	None
+8	Mobility
+9	None
+10	Engine
+11	None
+12	FCS

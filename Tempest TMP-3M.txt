@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Tempest TMP-3M.mtf
+==================================================
+
+2	Ammo explosion
+3	Weapon 1-2-2
+4	FCS
+5	None
+6	Engine
+7	Engine
+8	Unit Killed (Engine)
+9	Weapon 1-1-0
+10	Mobility
+11	Unit Killed (Engine)
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 5
