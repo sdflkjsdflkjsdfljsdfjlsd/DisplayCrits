@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Apollo APL-2S.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	FCS
+4	None
+5	Mobility
+6	Engine
+7	None
+8	Weapon 1-1-1
+9	Ammo explosion
+10	Ammo explosion
+11	None
+12	Unit Killed

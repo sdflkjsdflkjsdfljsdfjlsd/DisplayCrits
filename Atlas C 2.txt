@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Atlas C 2.mtf
+==================================================
+
+2	FCS
+3	Unit Killed
+4	Weapon 1-1-1
+5	Mobility
+6	Weapon 1-1-0
+7	None
+8	Engine
+9	Ammo explosion
+10	None
+11	Engine
+12	Weapon 2-2-2

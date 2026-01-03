@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Banshee BNC-5S (Sawyer).mtf
+==================================================
+
+2	Weapon 1-1-1
+3	Ammo explosion
+4	Mobility
+5	FCS
+6	Weapon 1-1-0
+7	Engine
+8	Engine
+9	None
+10	Unit Killed (Engine)
+11	Weapon 1-2-2
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 8

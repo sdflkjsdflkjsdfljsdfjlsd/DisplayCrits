@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Albatross ALB-3U.mtf
+==================================================
+
+2	None
+3	Unit Killed (Engine)
+4	Ammo explosion
+5	FCS
+6	Weapon 1-1-0
+7	Engine
+8	Mobility
+9	Engine
+10	Engine
+11	Weapon 1-1-1
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 8

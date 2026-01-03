@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Atlas AS7-RS.mtf
+==================================================
+
+2	Weapon 1-1-0
+3	Unit Killed
+4	Ammo explosion
+5	FCS
+6	Weapon 1-1-0
+7	Engine
+8	None
+9	Mobility
+10	Ammo explosion
+11	Weapon 1-1-1
+12	Engine

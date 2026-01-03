@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Archer ARC-7L.mtf
+==================================================
+
+2	Lose non-weapon specials
+3	Mobility
+4	Engine
+5	Ammo explosion
+6	None
+7	Stealth
+8	Weapon 1-2-2
+9	Stealth
+10	Weapon 1-2-2
+11	Ammo explosion
+12	Unit Killed

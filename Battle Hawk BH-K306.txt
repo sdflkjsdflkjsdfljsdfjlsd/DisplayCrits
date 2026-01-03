@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Battle Hawk BH-K306.mtf
+==================================================
+
+2	FCS
+3	None
+4	Engine
+5	Ammo explosion
+6	None
+7	Engine
+8	Weapon 1-1-0
+9	Mobility
+10	Engine
+11	Engine
+12	Unit Killed (Engine)

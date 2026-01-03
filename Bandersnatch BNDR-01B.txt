@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Bandersnatch BNDR-01B.mtf
+==================================================
+
+2	None
+3	Unit Killed (Engine)
+4	Weapon 0-1-1
+5	Ammo explosion
+6	Weapon 1-1-1
+7	Engine
+8	Mobility
+9	Weapon 1-1-0
+10	FCS
+11	Weapon 2-2-2
+12	Unit Killed

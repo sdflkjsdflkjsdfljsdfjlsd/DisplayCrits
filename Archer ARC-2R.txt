@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Archer ARC-2R.mtf
+==================================================
+
+2	Unit Killed
+3	Weapon 1-1-0
+4	Weapon 1-2-2
+5	Mobility
+6	None
+7	Ammo explosion
+8	Weapon 1-2-2
+9	Engine
+10	Weapon 1-2-2
+11	Mobility
+12	Weapon 1-1-0

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Annihilator ANH-1X.mtf
+==================================================
+
+2	Engine
+3	Unit Killed
+4	FCS
+5	Weapon 1-1-0
+6	None
+7	Ammo explosion
+8	Engine
+9	Mobility
+10	Weapon 1-1-0
+11	Ammo explosion
+12	Ammo explosion

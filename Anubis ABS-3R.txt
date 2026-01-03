@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Anubis ABS-3R.mtf
+==================================================
+
+2	Weapon 0-1-1
+3	ISRocketLauncher10
+4	Unit Killed (Engine)
+5	None
+6	Stealth Armor
+7	Engine
+8	Engine
+9	Mobility
+10	ISRocketLauncher15
+11	Ammo explosion
+12	Lose non-weapon specials
+
+Note: Mech has XL Engine. Structure pips required: 3

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Aquagladius AQS-4.mtf
+==================================================
+
+2	Unit Killed
+3	None
+4	ISLargeXPulseLaser
+5	Weapon 1-1-0
+6	Light Ferro-Fibrous
+7	Engine
+8	ISUMU
+9	IS HarJel
+10	Mobility
+11	Unit Killed (Engine)
+12	FCS

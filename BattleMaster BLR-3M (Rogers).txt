@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: BattleMaster BLR-3M (Rogers).mtf
+==================================================
+
+2	Unit Killed
+3	Weapon 1-1-1
+4	FCS
+5	Engine
+6	Weapon 1-1-0
+7	Mobility
+8	None
+9	Engine
+10	None
+11	Ammo explosion
+12	Weapon 1-1-0

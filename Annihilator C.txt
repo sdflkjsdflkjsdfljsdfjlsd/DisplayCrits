@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Annihilator C.mtf
+==================================================
+
+2	None
+3	Weapon 2-2-2
+4	Engine
+5	Mobility
+6	Weapon 1-1-0
+7	Weapon 2-2-2
+8	CLUltraAC10 Ammo
+9	FCS
+10	CLUltraAC10 Ammo
+11	Engine
+12	Unit Killed

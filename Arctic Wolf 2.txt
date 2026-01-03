@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Arctic Wolf 2.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Weapon 1-1-1
+4	Engine
+5	Ammo explosion
+6	Engine
+7	Weapon 1-1-0
+8	None
+9	Mobility
+10	Engine
+11	Mobility
+12	Lose non-weapon specials
+
+Note: Mech has XL Engine. Structure pips required: 3

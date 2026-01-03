@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Aquagladius AQS-3.mtf
+==================================================
+
+2	None
+3	IS HarJel
+4	ISUMU
+5	Mek Taser
+6	IS Flail
+7	Light Ferro-Fibrous
+8	Engine
+9	Engine
+10	Mobility
+11	Taser Ammo
+12	Unit Killed (Engine)

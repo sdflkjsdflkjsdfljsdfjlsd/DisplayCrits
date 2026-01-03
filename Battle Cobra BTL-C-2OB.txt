@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Battle Cobra BTL-C-2OB.mtf
+==================================================
+
+2	ISC3iUnit
+3	None
+4	FCS
+5	Weapon 1-1-0
+6	Ammo explosion
+7	Mobility
+8	None
+9	Engine
+10	Ammo explosion
+11	Engine
+12	Unit Killed

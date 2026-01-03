@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Anvil ANV-6M.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Mobility
+4	Lose non-weapon specials
+5	Weapon 1-1-0
+6	None
+7	Mobility
+8	Engine
+9	None
+10	Engine
+11	Weapon 1-1-0
+12	Unit Killed
