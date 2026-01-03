@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Corvis.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	Weapon 2-2-2
+5	Mobility
+6	Weapon 1-1-0
+7	None
+8	Ammo explosion
+9	Engine
+10	Ammo explosion
+11	Ammo explosion
+12	Engine

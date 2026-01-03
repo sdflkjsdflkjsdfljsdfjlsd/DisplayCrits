@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Phoenix Hawk PXH-1-EC.mtf
+==================================================
+
+2	history:Goliath Scorpion techs swapped the standard large laser for an improved version to compliment the twin prototype medium lasers also installed. However, the old double heat sinks struggled with the heat, but it was the lack of CASE for the anti-missile ammunition that became the real reason why this ‘Hawk disappeared from the Scorpion touman.
+3	Ammo explosion
+4	Improved Large Laser
+5	CLERMediumLaserPrototype
+6	Mobility
+7	None
+8	Engine
+9	None
+10	CLERMediumLaserPrototype
+11	Unit Killed
+12	Lose non-weapon specials

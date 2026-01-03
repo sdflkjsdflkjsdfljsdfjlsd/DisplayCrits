@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Gurkha GUR-6G.mtf
+==================================================
+
+2	FCS
+3	Weapon 1-1-1
+4	Lose MEL special
+5	Mobility
+6	Engine
+7	Engine
+8	Engine
+9	None
+10	Engine
+11	Weapon 1-1-0
+12	Lose non-weapon specials

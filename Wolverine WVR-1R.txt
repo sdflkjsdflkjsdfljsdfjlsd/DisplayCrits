@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Wolverine WVR-1R.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	FCS
+4	Weapon 1-1-1
+5	None
+6	Mobility
+7	Ammo explosion
+8	Engine
+9	Ammo explosion
+10	Engine
+11	ISPrototypeJumpJet
+12	Unit Killed

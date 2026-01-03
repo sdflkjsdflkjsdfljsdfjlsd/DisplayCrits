@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Victor VTR-9B (Shoji).mtf
+==================================================
+
+2	Engine
+3	Unit Killed
+4	None
+5	FCS
+6	Engine
+7	Ammo explosion
+8	Weapon 1-1-0
+9	Mobility
+10	Ammo explosion
+11	Weapon 1-1-0
+12	Ammo explosion

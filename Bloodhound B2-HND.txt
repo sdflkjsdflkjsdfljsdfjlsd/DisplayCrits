@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Bloodhound B2-HND.mtf
+==================================================
+
+2	Unit Killed
+3	Lose non-weapon specials
+4	Unit Killed (Engine)
+5	Mobility
+6	Engine
+7	Engine
+8	Engine
+9	Weapon 1-1-0
+10	FCS
+11	None
+12	Ammo explosion
+
+Note: Mech has XL Engine. Structure pips required: 4

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Awesome AWS-8T.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Ammo explosion
+4	FCS
+5	Weapon 1-1-1
+6	Mobility
+7	Engine
+8	None
+9	Weapon 1-1-0
+10	None
+11	Engine
+12	Unit Killed

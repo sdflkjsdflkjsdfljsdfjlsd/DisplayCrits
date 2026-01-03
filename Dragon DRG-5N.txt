@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Dragon DRG-5N.mtf
+==================================================
+
+2	Unit Killed
+3	Weapon 1-1-0
+4	Ammo explosion
+5	Weapon 1-1-1
+6	None
+7	Ammo explosion
+8	Mobility
+9	Engine
+10	None
+11	FCS
+12	Weapon 0-1-1

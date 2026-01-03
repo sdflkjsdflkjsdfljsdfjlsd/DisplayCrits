@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Vulture (Mad Dog) A.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	FCS
+5	Mobility
+6	Weapon 1-1-0
+7	Engine
+8	Ammo explosion
+9	Engine
+10	Ammo explosion
+11	Weapon 2-2-2
+12	Unit Killed (Engine)
+
+Note: Mech has XL Engine. Structure pips required: 5

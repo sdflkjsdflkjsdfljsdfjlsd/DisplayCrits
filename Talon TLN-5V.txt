@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Talon TLN-5V.mtf
+==================================================
+
+2	FCS
+3	FCS
+4	Mobility
+5	Unit Killed (Engine)
+6	Engine
+7	Engine
+8	Weapon 1-1-1
+9	Weapon 1-1-1
+10	Weapon 1-1-0
+11	Mobility
+12	Weapon 1-1-0
+
+Note: Mech has XL Engine. Structure pips required: 3

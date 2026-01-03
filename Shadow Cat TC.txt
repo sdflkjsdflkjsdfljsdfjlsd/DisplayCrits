@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Shadow Cat TC.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	FCS
+4	Ammo explosion
+5	Ammo explosion
+6	Weapon 1-1-0
+7	Engine
+8	None
+9	Mobility
+10	Engine
+11	Lose non-weapon specials
+12	Unit Killed
+
+Note: Mech has XL Engine. Structure pips required: 4

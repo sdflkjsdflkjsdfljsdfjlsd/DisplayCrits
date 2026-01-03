@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Marshal MHL-2L.mtf
+==================================================
+
+2	Unit Killed
+3	Weapon 1-1-1
+4	None
+5	None
+6	Weapon 1-1-0
+7	Ammo explosion
+8	Engine
+9	Mobility
+10	None
+11	FCS
+12	Ammo explosion

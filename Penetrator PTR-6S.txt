@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Penetrator PTR-6S.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Ammo explosion
+4	Lose non-weapon specials
+5	FCS
+6	Engine
+7	Mobility
+8	Weapon 1-1-0
+9	Weapon 1-1-1
+10	Engine
+11	None
+12	Unit Killed

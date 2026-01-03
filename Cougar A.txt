@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Cougar A.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Ammo explosion
+4	Weapon 1-2-2
+5	None
+6	Weapon 1-1-0
+7	Ammo explosion
+8	Engine
+9	Mobility
+10	Engine
+11	Engine
+12	Ammo explosion
+
+Note: Mech has XL Engine. Structure pips required: 3

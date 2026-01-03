@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Warhammer IIC 2.mtf
+==================================================
+
+2	Unit Killed
+3	None
+4	FCS
+5	Mobility
+6	Ammo explosion
+7	Engine
+8	None
+9	Weapon 2-2-2
+10	Weapon 1-1-1
+11	None
+12	Weapon 1-1-0
