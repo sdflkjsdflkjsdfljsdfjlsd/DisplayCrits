@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Juggernaut JG-R9T3.mtf
+==================================================
+
+2	Unit Killed
+3	ISMagshotGR Ammo
+4	Engine
+5	IS Coolant Pod
+6	ISLargeXPulseLaser
+7	ISMagshotGR
+8	None
+9	ISMagshotGR
+10	ISMediumXPulseLaser
+11	Mobility
+12	None

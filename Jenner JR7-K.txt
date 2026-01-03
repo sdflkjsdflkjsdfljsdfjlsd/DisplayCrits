@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Jenner JR7-K.mtf
+==================================================
+
+2	Unit Killed
+3	None
+4	FCS
+5	Mobility
+6	Weapon 1-1-0
+7	Engine
+8	None
+9	Mobility
+10	Ammo explosion
+11	Weapon 1-1-0
+12	Weapon 1-1-0

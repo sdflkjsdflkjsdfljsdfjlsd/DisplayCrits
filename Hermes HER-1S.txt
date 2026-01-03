@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Hermes HER-1S.mtf
+==================================================
+
+2	Unit Killed
+3	Mobility
+4	Weapon 1-1-0
+5	Engine
+6	None
+7	Mobility
+8	Engine
+9	Mobility
+10	Lose HT special
+11	Engine
+12	Unit Killed

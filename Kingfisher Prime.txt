@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Kingfisher Prime.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Unit Killed
+4	Weapon 1-1-0
+5	FCS
+6	None
+7	Engine
+8	Weapon 1-1-1
+9	Ammo explosion
+10	Mobility
+11	Weapon 1-1-0
+12	Mobility

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Imp IMP-1B.mtf
+==================================================
+
+2	Unit Killed
+3	Weapon 1-2-2
+4	Weapon 1-1-1
+5	Ammo explosion
+6	None
+7	Engine
+8	Mobility
+9	None
+10	Weapon 1-1-0
+11	Lose non-weapon specials
+12	FCS

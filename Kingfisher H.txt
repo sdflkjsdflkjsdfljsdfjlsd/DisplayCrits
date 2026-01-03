@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Kingfisher H.mtf
+==================================================
+
+2	Unit Killed
+3	Engine
+4	Weapon 2-2-0
+5	Weapon 1-1-0
+6	Engine
+7	None
+8	FCS
+9	Mobility
+10	None
+11	FCS
+12	Unit Killed (Engine)

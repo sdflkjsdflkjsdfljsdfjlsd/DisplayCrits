@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Hunchback HBK-4SP.mtf
+==================================================
+
+2	Ammo explosion
+3	Mobility
+4	FCS
+5	Engine
+6	None
+7	Weapon 1-1-0
+8	Mobility
+9	Weapon 1-1-0
+10	None
+11	Engine
+12	Unit Killed

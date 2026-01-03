@@ -1,0 +1,16 @@
+Alpha Strike Critical Table Simulation for: Komodo KIM-2C.mtf
+==================================================
+
+2	FCS
+3	Ammo explosion
+4	Mobility
+5	Engine
+6	None
+7	Engine
+8	Weapon 1-1-0
+9	Weapon 1-1-0
+10	Lose non-weapon specials
+11	Unit Killed (Engine)
+12	Mobility
+
+Note: Mech has XL Engine. Structure pips required: 4

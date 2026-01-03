@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Hollander II BZK-F7.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Mobility
+4	Engine
+5	Weapon 2-2-1
+6	None
+7	Mobility
+8	Engine
+9	None
+10	None
+11	Engine
+12	Unit Killed

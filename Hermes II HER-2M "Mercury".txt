@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Hermes II HER-2M "Mercury".mtf
+==================================================
+
+2	Unit Killed
+3	Lose HT special
+4	None
+5	Ammo explosion
+6	Weapon 1-1-0
+7	Engine
+8	None
+9	Mobility
+10	Mobility
+11	Engine
+12	Mobility

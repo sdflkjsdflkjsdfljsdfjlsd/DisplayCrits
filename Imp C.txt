@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Imp C.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	Weapon 1-2-2
+4	CLLRM20 Ammo (Clan) Artemis-capable
+5	Mobility
+6	Weapon 1-1-0
+7	Engine
+8	None
+9	None
+10	Weapon 2-2-2
+11	Unit Killed
+12	FCS

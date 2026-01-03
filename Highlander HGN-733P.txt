@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Highlander HGN-733P.mtf
+==================================================
+
+2	Unit Killed
+3	FCS
+4	Mobility
+5	Weapon 1-1-0
+6	Ammo explosion
+7	None
+8	Weapon 1-1-1
+9	Engine
+10	Weapon 1-2-2
+11	FCS
+12	Weapon 1-2-2

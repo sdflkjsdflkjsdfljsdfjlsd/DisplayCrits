@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Hussar HSR-500-D.mtf
+==================================================
+
+2	Lose non-weapon specials
+3	Weapon 1-1-1
+4	None
+5	Engine
+6	Mobility
+7	Engine
+8	Engine
+9	Engine
+10	Engine
+11	Engine
+12	None

@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Hussar HSR-200-D.mtf
+==================================================
+
+2	Unit Killed
+3	Weapon 1-1-1
+4	Mobility
+5	Mobility
+6	None
+7	Engine
+8	Mobility
+9	Engine
+10	Mobility
+11	Mobility
+12	Engine

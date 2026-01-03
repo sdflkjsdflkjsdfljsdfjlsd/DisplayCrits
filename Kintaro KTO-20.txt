@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Kintaro KTO-20.mtf
+==================================================
+
+2	Weapon 0-1-1
+3	None
+4	Ammo explosion
+5	Mobility
+6	Engine
+7	Weapon 1-1-0
+8	Ammo explosion
+9	FCS
+10	Weapon 1-1-0
+11	Weapon 1-1-0
+12	Unit Killed

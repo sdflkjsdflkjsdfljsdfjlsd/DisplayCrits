@@ -1,0 +1,14 @@
+Alpha Strike Critical Table Simulation for: Koschei KSC-4L.mtf
+==================================================
+
+2	Unit Killed (Engine)
+3	FCS
+4	Weapon 1-1-1
+5	Weapon 1-1-0
+6	Engine
+7	Mobility
+8	Ammo explosion
+9	None
+10	Engine
+11	None
+12	Unit Killed
